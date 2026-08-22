@@ -1,2 +1,2 @@
-﻿hysteria2://57a9cf7d-bb6c-414e-97be-1985f7123c61@errorgr.zapret-tg.ru:443?sni=errorgr.zapret-tg.ru&fm=%7B#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-hysteria2://57a9cf7d-bb6c-414e-97be-1985f7123c61@errorgr.zapret-tg.ru:443?sni=errorgr.zapret-tg.ru&fm=%7B#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+﻿hysteria2://gf1%3Agfhysteria2024@66.94.121.46:443?security=tls&insecure=1&sni=66.94.121.46#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://gf1%3Agfhysteria2024@66.94.121.46:443?sni=www.broadcom.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
