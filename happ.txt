@@ -1,11 +1,16 @@
-﻿
-
-
-
-
-
-
-
-
-
+﻿vless://384e5ac1-5667-4c7b-8fec-4999a5daa3f5@81.163.23.184:443?encryption=none&security=reality&sni=d3cdn3.cloud-cdn.xyz&pbk=BMGrPOuNPdjBFGuF6AJ1kfUTOtPEpPlF3yVPq1sMySw&sid=b9eeb70a31009864&spx=%2F&flow=xtls-rprx-vision&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://384e5ac1-5667-4c7b-8fec-4999a5daa3f5@81.163.23.184:443?encryption=none&security=reality&sni=d3cdn3.cloud-cdn.xyz&pbk=BMGrPOuNPdjBFGuF6AJ1kfUTOtPEpPlF3yVPq1sMySw&sid=b9eeb70a31009864&spx=%2F&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://384e5ac1-5667-4c7b-8fec-4999a5daa3f5@81.163.23.184:443?encryption=none&security=reality&sni=d3cdn3.cloud-cdn.xyz&pbk=BMGrPOuNPdjBFGuF6AJ1kfUTOtPEpPlF3yVPq1sMySw&sid=b9eeb70a31009864&spx=%2F&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://384e5ac1-5667-4c7b-8fec-4999a5daa3f5@81.163.23.229:443?encryption=none&security=reality&sni=d3cdn4.cloud-cdn.xyz&pbk=73TR7OJB5qwHj6Wv84OOnMnc3XijQROD1j9Y6w7eHj8&sid=8af2a87ba6dd24bf&spx=%2F&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://384e5ac1-5667-4c7b-8fec-4999a5daa3f5@81.163.23.229:443?encryption=none&security=reality&sni=d3cdn4.cloud-cdn.xyz&pbk=73TR7OJB5qwHj6Wv84OOnMnc3XijQROD1j9Y6w7eHj8&sid=8af2a87ba6dd24bf&spx=%2F&flow=xtls-rprx-vision&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://384e5ac1-5667-4c7b-8fec-4999a5daa3f5@81.163.22.242:443?encryption=none&security=reality&sni=d3cdn2.cloud-cdn.xyz&pbk=ai7gOrGJwhtQrdRx6ErKZOIpJVcH7-cMCsezF_9CemU&sid=735cc0f593cd91c6&spx=%2F&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://384e5ac1-5667-4c7b-8fec-4999a5daa3f5@81.163.22.242:443?encryption=none&security=reality&sni=d3cdn2.cloud-cdn.xyz&pbk=ai7gOrGJwhtQrdRx6ErKZOIpJVcH7-cMCsezF_9CemU&sid=735cc0f593cd91c6&spx=%2F&flow=xtls-rprx-vision&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://384e5ac1-5667-4c7b-8fec-4999a5daa3f5@81.163.22.242:443?encryption=none&security=reality&sni=d3cdn2.cloud-cdn.xyz&pbk=ai7gOrGJwhtQrdRx6ErKZOIpJVcH7-cMCsezF_9CemU&sid=735cc0f593cd91c6&spx=%2F&flow=xtls-rprx-vision&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://384e5ac1-5667-4c7b-8fec-4999a5daa3f5@81.163.23.184:443?encryption=none&security=reality&sni=d3cdn3.cloud-cdn.xyz&pbk=BMGrPOuNPdjBFGuF6AJ1kfUTOtPEpPlF3yVPq1sMySw&sid=b9eeb70a31009864&spx=%2F&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://384e5ac1-5667-4c7b-8fec-4999a5daa3f5@81.163.23.184:443?encryption=none&security=reality&sni=d3cdn3.cloud-cdn.xyz&pbk=BMGrPOuNPdjBFGuF6AJ1kfUTOtPEpPlF3yVPq1sMySw&sid=b9eeb70a31009864&spx=%2F&flow=xtls-rprx-vision&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://384e5ac1-5667-4c7b-8fec-4999a5daa3f5@5.188.114.71:443?encryption=none&security=reality&sni=d3-pl.cloud-cdn.xyz&pbk=w9XrtoY9Yc_j2sv1aRrZkaxBebVCEeMt8_8Wc7vfIAA&sid=9ef1df8ef470411e&spx=%2F&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://384e5ac1-5667-4c7b-8fec-4999a5daa3f5@81.163.23.184:443?encryption=none&security=reality&sni=d3-de1.cloud-cdn.xyz&pbk=1VyI9uZhGNRHoWaKN64kdpA_quoVdF4ALFCXtsvM1k0&sid=36eead8266dadafb&spx=%2F&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://384e5ac1-5667-4c7b-8fec-4999a5daa3f5@5.188.114.71:443?encryption=none&security=reality&sni=d3-pl.cloud-cdn.xyz&pbk=w9XrtoY9Yc_j2sv1aRrZkaxBebVCEeMt8_8Wc7vfIAA&sid=9ef1df8ef470411e&spx=%2F&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://384e5ac1-5667-4c7b-8fec-4999a5daa3f5@5.188.114.71:443?encryption=none&security=reality&sni=d3-pl.cloud-cdn.xyz&pbk=w9XrtoY9Yc_j2sv1aRrZkaxBebVCEeMt8_8Wc7vfIAA&sid=9ef1df8ef470411e&spx=%2F&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://384e5ac1-5667-4c7b-8fec-4999a5daa3f5@5.188.114.71:443?encryption=none&security=reality&sni=d3-pl.cloud-cdn.xyz&pbk=w9XrtoY9Yc_j2sv1aRrZkaxBebVCEeMt8_8Wc7vfIAA&sid=9ef1df8ef470411e&spx=%2F&flow=xtls-rprx-vision&fp=ios#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D [YouTube] [Telegram]
 
