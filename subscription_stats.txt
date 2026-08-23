@@ -1,11 +1,11 @@
 ﻿# profile-title: Subscription Statistics
-# Date/Time: 2026-08-24 01:08:00 (Moscow)
+# Date/Time: 2026-08-24 01:37:40 (Moscow)
 
 =========================================
   СТАТИСТИКА ПОДПИСКИ
 =========================================
 
-Дата создания: 2026-08-24 01:08:00
+Дата создания: 2026-08-24 01:37:40
 Всего конфигов: 1765
 
 === YouTube/Telegram ===
@@ -14,25 +14,25 @@ Telegram: 0
 YouTube + Telegram: 0
 
 === По протоколам ===
-  vless      : 1296
-  vmess      : 165
-  trojan     : 105
+  vless      : 1209
+  vmess      : 206
+  trojan     : 137
   hysteria2  : 16
-  shadowsocks: 183
+  shadowsocks: 197
   amnezia    : 0
   tuic       : 0
 
 === Маскировки серверов (ТОП-10) ===
-  timeout : 1556
-  tls_error : 143
-  3dns.vip : 12
-  google.com : 5
-  connect_error : 3
-  fastly.net : 3
-  yandex.ru : 3
-  amazon.com : 3
-  workers.dev : 2
-  ndjp.net : 2
+  timeout : 1515
+  tls_error : 194
+  railway.app : 7
+  octopusss.net : 4
+  ariyuz.org : 3
+  workers.dev : 3
+  dodfun.ir : 3
+  cendora.ru : 3
+  bingnet.online : 2
+  python.org : 2
 
 =========================================
 
