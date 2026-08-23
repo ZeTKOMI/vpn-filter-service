@@ -1,6 +1,6 @@
 ﻿# profile-title: AMNEZIA VPN Configs
 # profile-update-interval: 1
-# Date/Time: 2026-08-24 00:55:04 (Moscow)
+# Date/Time: 2026-08-24 01:08:00 (Moscow)
 # Количество: 0
 # Описание: Все рабочие AMNEZIA конфиги
 #
