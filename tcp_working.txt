@@ -1,6 +1,6 @@
 ﻿# profile-title: TCP прогресс
 # profile-update-interval: 1
-# Date/Time: 2026-08-24 00:54:09 (Moscow)
+# Date/Time: 2026-08-24 00:54:16 (Moscow)
 # Количество: 1584
 #
 # === СТАТИСТИКА ===
