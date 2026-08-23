@@ -1,11 +1,11 @@
 ﻿# profile-title: TCP прогресс
 # profile-update-interval: 1
-# Date/Time: 2026-08-24 00:52:14 (Moscow)
-# Количество: 1573
+# Date/Time: 2026-08-24 00:53:14 (Moscow)
+# Количество: 1575
 #
 # === СТАТИСТИКА ===
 # YouTube: 0 | Telegram: 0 | Оба: 0
-# Средняя задержка: 219 мс
+# Средняя задержка: 220 мс
 #
 # For more info: www.github.com/ZeTKOMI/vpn-filter-service
 
@@ -1582,4 +1582,6 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBO
 vless://23b3cbba-e6ac-485a-9481-342a0415eab9@104.21.81.174:80?encryption=none&security=none&type=ws&host=DaWn-lAKE-d5E3.WocoYA4320.wOrkERs.DeV&path=%2FwP3dwCyRAVyMJFfW%3Fed%3D2560#рџ”ҐJoin+Telegram:@Farah_VPNрџџЈ
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIxMDQuMjEuMjM4LjkyIiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjcwMjI5ODJmLWRhNGMtNDhjOS1jNjYwLWIyMzE1YWJkY2Y3ZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvP2VkPTIwNDgmVGVsZWdyYW1cdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMiLCAiaG9zdCI6ICJhLnByYXB0MS5pciIsICJ0bHMiOiAiIn0=
 vless://57b195c6-5b14-4740-84dd-4eac9fa496dd@188.114.96.0:443?encryption=none&security=tls&sni=4fi0bned6rskd4f4x8b53lhibpjrrz7ppzbyhrqv99yf0i9riuwzp79gu5lahbt.1td780.workers.Dev&type=ws&host=4fi0bned6rskd4f4x8b53lhibpjrrz7ppzbyhrqv99yf0i9riuwzp79gu5lahbt.1td780.workers.Dev&path=%2F#рџ”ҐJoin+Telegram:@Farah_VPNрџџЈ
+vless://3a3de813-bfaa-4355-bc47-05c7245431d2@89.116.250.135:8880?encryption=none&type=httpupgrade&path=%2F%3Fed%3D2082&host=FFar.9.postshup.ir#рџ”ҐJoin+Telegram:@Farah_VPNрџџЈ
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICJjYzI4LmdvaW5nc2lkZS5zaXRlIiwgInBvcnQiOiAiODk5OCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNGIwMTlmYWEtMzhiMC00NzNkLWJjNDktNjBiYjY4MTUxYzM0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJjYzI4LmdvaW5nc2lkZS5zaXRlIiwgInRscyI6ICIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
 
