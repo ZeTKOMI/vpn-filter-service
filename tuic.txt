@@ -1,0 +1,17 @@
+﻿# profile-title: TUIC VPN Configs
+# profile-update-interval: 1
+# Date/Time: 2026-08-24 00:22:35 (Moscow)
+# Количество: 0
+# Описание: Все рабочие TUIC конфиги (приоритет: igareck)
+#
+# === СТАТИСТИКА ===
+# IGARECK конфигов: 0
+# YouTube: 0 | Telegram: 0 | Оба: 0
+# Средняя задержка: 0 мс
+#
+# === ИСТОЧНИКИ ===
+#
+# For more info: www.github.com/ZeTKOMI/vpn-filter-service
+
+# Нет рабочих конфигов
+

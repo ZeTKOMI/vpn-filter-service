@@ -1,15 +1,37 @@
-﻿vless://419f25c1-bc35-412e-93fb-258efee859b5@nl3.murhost.network:443?type=tcp&security=reality&sni=nl3.murhost.network&pbk=XOcyZvF63CHDPnh3UCL-u-X8HYeNGiRtrwDVRLBC1DI&sid=f41bc0b00ca1a978&encryption=none&flow=xtls-rprx-vision&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5BBL%5D
-vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@s4.archive.anti-zapret.com:443?encryption=none&security=reality&sni=ru.srv.anti-zapret.com&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505&flow=xtls-rprx-vision&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Obruchevo%20%7C%20%5BBL%5D
-vless://7aecb4a5-f0a4-32a0-aabe-c9d5241e313f@family.bucket.5.kfc-520.com:10007?security=reality&flow=xtls-rprx-vision&pbk=uMDcH_hT82rYMOiaYGGPJ5Aa9hk9Sdo2svtRIHBSBFo&sid=61e4433c2b25da&sni=www.amd.com&type=tcp&headerType=none&host=www.amd.com&path=%2F&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D
-vless://419f25c1-bc35-412e-93fb-258efee859b5@nl3.murhost.network:443?type=tcp&security=reality&sni=nl3.murhost.network&pbk=XOcyZvF63CHDPnh3UCL-u-X8HYeNGiRtrwDVRLBC1DI&sid=f41bc0b00ca1a978&encryption=none&flow=xtls-rprx-vision&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5BBL%5D
-hysteria2://gf1%3Agfhysteria2024@66.94.121.46:443?security=tls&insecure=1&sni=66.94.121.46#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://gf1:gfhysteria2024@66.94.121.46:443?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@s4.archive.anti-zapret.com:443?encryption=none&security=reality&sni=ru.srv.anti-zapret.com&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Obruchevo%20%7C%20%5BBL%5D
-hysteria2://gf1%3Agfhysteria2024@66.94.121.46:443?insecure=1&sni=www.broadcom.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://c87318cf-a46e-336f-9ee3-0fa0e3d4300d@152.53.37.35:65535?security=reality&flow=xtls-rprx-vision&pbk=0PnR2q4kH2iTP5SPhoVk0n6UsyRmzdQqzWbYqOHuvzA&sid=e450c58141b3508e&sni=learn.microsoft.com&type=tcp&headerType=none&host=learn.microsoft.com&path=%2F&fp=random#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Manassas%20%7C%20%5BBL%5D
-vless://c87318cf-a46e-336f-9ee3-0fa0e3d4300d@152.53.37.35:65535?security=reality&type=tcp&sni=learn.microsoft.com&flow=xtls-rprx-vision&sid=e450c58141b3508e&pbk=0PnR2q4kH2iTP5SPhoVk0n6UsyRmzdQqzWbYqOHuvzA&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Manassas%20%7C%20%5BBL%5D
-vless://4a680c6d-10b6-44ec-afbd-e2621760e347@23.172.40.60:443?encryption=none&flow=xtls-rprx-vision&pbk=C7nhExS9e3_WQIDfYrGaG6ycw2jlrfSh3b-nf8eikSI&security=reality&sid=a1b2&sni=learn.microsoft.com&type=tcp&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Central-Alameda%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://c87318cf-a46e-336f-9ee3-0fa0e3d4300d@152.53.37.35:65535?security=reality&flow=xtls-rprx-vision&pbk=0PnR2q4kH2iTP5SPhoVk0n6UsyRmzdQqzWbYqOHuvzA&sid=e450c58141b3508e&sni=learn.microsoft.com&type=tcp&headerType=none&host=learn.microsoft.com&path=%2F&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Manassas%20%7C%20%5BBL%5D
-vless://7aecb4a5-f0a4-32a0-aabe-c9d5241e313f@107.151.244.49:10007?encryption=none&flow=xtls-rprx-vision&pbk=uMDcH_hT82rYMOiaYGGPJ5Aa9hk9Sdo2svtRIHBSBFo&security=reality&sid=61e4433c2b25da&sni=www.amd.com&type=tcp&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D
-vless://7aecb4a5-f0a4-32a0-aabe-c9d5241e313f@family.bucket.5.kfc-520.com:10007?security=reality&flow=xtls-rprx-vision&pbk=uMDcH_hT82rYMOiaYGGPJ5Aa9hk9Sdo2svtRIHBSBFo&sid=61e4433c2b25da&sni=www.amd.com&type=tcp&headerType=none&host=www.amd.com&path=%2F&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D
-vless://c87318cf-a46e-336f-9ee3-0fa0e3d4300d@152.53.37.35:65535?security=reality&type=tcp&sni=learn.microsoft.com&flow=xtls-rprx-vision&sid=e450c58141b3508e&pbk=0PnR2q4kH2iTP5SPhoVk0n6UsyRmzdQqzWbYqOHuvzA&fp=random#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Manassas%20%7C%20%5BBL%5D
+﻿# profile-title: TOP-20 Best VPN Configs
+# profile-update-interval: 1
+# Date/Time: 2026-08-24 00:22:35 (Moscow)
+# Количество: 20
+# Описание: Только самые быстрые и стабильные конфиги
+#
+# === СТАТИСТИКА ===
+# IGARECK конфигов: 0
+# YouTube: 0 | Telegram: 0 | Оба: 0
+# Средняя задержка: 81 мс
+#
+# === ИСТОЧНИКИ ===
+# epodonios: 20
+#
+# For more info: www.github.com/ZeTKOMI/vpn-filter-service
+
+vless://0596d8de-cf34-402a-b533-163b15e642eb@198.41.199.255:443?path=/downloader.php&security=tls&encryption=none&insecure=0&host=windy.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=windy.adaspoloandco.com&note=@FreeOnlineVPN#EPODONIOS
+vless://7aa508f3-176f-0024-add3-646af94d6288@185.137.232.194:443?mode=packet-up&path=/assets&security=reality&encryption=none&pbk=kYwdZueXQt_DEKPrWTw8yoj6G4AWqupg8UrWjAgWbkE&fp=chrome&type=xhttp&sni=aispir.ru&sid=8ba6e72ee60667f6#EPODONIOS
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=/?TELEGRAM-Cnetvpn?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
+vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.18.250.245:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#EPODONIOS
+vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.193.28.212:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#EPODONIOS
+vless://0e75f6ee-9a4d-4019-8276-cacf388d2ec6@200.165.232.160:443?encryption=none&fp=chrome&pbk=Vs7_XFo1cg224HiMYNRTJij_O4uyUIFtxMGGtBs_E3Q&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc#EPODONIOS
+vless://ab5f1192-2680-40d6-9c29-2bd27301337a@185.146.173.32:2095?security=none&type=ws&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=/#EPODONIOS
+vless://3c1eef35-015b-48cd-9f0a-23d9ef5816cc@104.16.8.237:80?encryption=none&security=none&type=ws&host=little-haze-1600-ppal03.gabonim122.workers.dev&path=/?ed=2560#EPODONIOS
+vless://16227db7-1914-4a97-bb6b-7bf98e6b525b@185.143.232.201:443?path=/&security=tls&encryption=none&insecure=0&host=zapzap.mc.filimo.cam&type=ws&allowInsecure=0&sni=zapzap.mc.filimo.cam#EPODONIOS
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.49.157:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=/GOrbEh#EPODONIOS
+vless://AlfredConfig@199.181.197.176:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#EPODONIOS
+vless://74be4eff-bd4a-40ae-9991-92421bfdf074@172.64.145.202:8443?encryption=none&security=tls&sni=se.jey.cc.cd&alpn=h2,http/1.1&fp=chrome&type=xhttp&host=se.jey.cc.cd&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey&mode=auto&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}#EPODONIOS
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&host=josni.hoyes.cloudns.ch&path=musiclovers85?ed#EPODONIOS
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/fp&security=&encryption=none&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&sni=hhlfy.twiladaphne.ndjp.net#EPODONIOS
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.22:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#EPODONIOS
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.46:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#EPODONIOS
+vless://82241d60-2bdf-4de7-9a29-2d57ebc09b76@162.159.9.83:443?path=/eyJqdW5rIjoiSWVocjJHeWRvSGxYaThvIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=h18i2jam-v6htjq-f-vwai0pvgltc6on.hghorbani-mc70.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=h18I2JaM-v6hTJQ-F-vwAI0PvGltC6On.hGhOrBAni-MC70.WoRkErS.dev#EPODONIOS
+vless://850563d4-d5e2-4672-b2e1-ceaa69ff62f2@104.16.172.173:80?encryption=none&security=none&type=ws&host=aged-leaf-04aa-ppal03.midosib237.workers.dev&path=/?ed=2560#EPODONIOS
+trojan://mitivpn@45.205.0.6:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/u-s@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=333-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#EPODONIOS
+vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?security=none&allowInsecure=0&encryption=none&type=ws&host=netherlands.vipserver14.workers.dev&path=/?ed=2048#EPODONIOS
+
