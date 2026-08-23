@@ -1,11 +1,11 @@
 ﻿# profile-title: TCP прогресс
 # profile-update-interval: 1
-# Date/Time: 2026-08-24 01:36:53 (Moscow)
-# Количество: 1761
+# Date/Time: 2026-08-24 01:36:57 (Moscow)
+# Количество: 1765
 #
 # === СТАТИСТИКА ===
 # YouTube: 0 | Telegram: 0 | Оба: 0
-# Средняя задержка: 414 мс
+# Средняя задержка: 415 мс
 #
 # For more info: www.github.com/ZeTKOMI/vpn-filter-service
 
@@ -1770,4 +1770,8 @@ vmess://eyJhZGQiOiAidjJwLXVzLWQueXdhbmR5LnRvcCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAi
 vmess://eyJhZGQiOiAiZGFzaGJvYXJkLmFmcmFwYXkudG9wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI3NmNlZmNkNy02YjUzLTRjNjUtYWQyOS0xYTkyNzM0ZmM5NjgiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICI1Mzg1IiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.156.99:443?encryption=none&security=tls&sni=PPAL03.wopaJO6948.WorKErs.dEv&type=ws&host=PPAL03.wopaJO6948.WorKErs.dEv&path=%2F2h9pwob102xqfyhg%3Fed%3D2560#рџ”ҐJoin+Telegram:@Farah_VPNрџџЈ
 vless://c43cf30c-18f1-4e20-bd88-73b1288c5202@104.27.62.243:443?encryption=none&security=tls&sni=worker-dry-breeze-60a0.chngyznwy.workers.dev&type=ws&host=worker-dry-breeze-60a0.chngyznwy.workers.dev&path=%40VPNHTTPInjectorfree#рџ”ҐJoin+Telegram:@Farah_VPNрџџЈ
+vless://b6e97b8a-1b43-4fa9-ab1b-d0139df07f59@172.67.187.251:8080?encryption=none&security=none&type=ws&host=11tg.w79kip11.workers.dev&path=%2F%3Fed%3D2560#рџ”ҐJoin+Telegram:@Farah_VPNрџџЈ
+vless://23b3cbba-e6ac-485a-9481-342a0415eab9@104.21.81.174:80?encryption=none&security=none&type=ws&host=DaWn-lAKE-d5E3.WocoYA4320.wOrkERs.DeV&path=%2FwP3dwCyRAVyMJFfW%3Fed%3D2560#рџ”ҐJoin+Telegram:@Farah_VPNрџџЈ
+vmess://eyJhZGQiOiAiMzY2LTEwOTUucmFiYml0cHJvLWluLTMuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJlMzUxZDZkOC1jMTY3LTNlMDctOGZkYS0zZjJmNGVjMDc2MGIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjI5MDA5IiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+vless://052e510d-d892-4dc4-a686-8986a01535cd@172.66.44.100:443?encryption=none&security=tls&sni=SprING-HaLl-14EF.WOOzY-cHAmOis2822.WorkERs.DEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=spring-hall-14ef.woozy-chamois2822.workers.dev&path=%2FTelegram%40mtmvpn%2F%3Fed%3D2560#рџ”ҐJoin+Telegram:@Farah_VPNрџџЈ
 
