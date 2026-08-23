@@ -1,11 +1,11 @@
 ﻿# profile-title: TCP прогресс
 # profile-update-interval: 1
-# Date/Time: 2026-08-24 00:51:55 (Moscow)
-# Количество: 1555
+# Date/Time: 2026-08-24 00:52:02 (Moscow)
+# Количество: 1560
 #
 # === СТАТИСТИКА ===
 # YouTube: 0 | Telegram: 0 | Оба: 0
-# Средняя задержка: 213 мс
+# Средняя задержка: 215 мс
 #
 # For more info: www.github.com/ZeTKOMI/vpn-filter-service
 
@@ -1564,4 +1564,9 @@ vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE3Mi4xMTEuMTQ2LjY0IiwgInBvcnQiOiAiODAiLCAiaWQi
 ss://0691b704-7742-4248-8787-e72b98ec8c0c@104.17.19.159:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=nova-comet-core-8e95.nova-58d622.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=novaвЂ¦#рџ”ҐJoin+Telegram:@Farah_VPNрџџЈ
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4xOS4zOC44IiwgInBvcnQiOiAiMjA4NiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgImhvc3QiOiAiaXAyLjE0NTcyMzAueHl6IiwgInRscyI6ICIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIn0=
 vless://708bb7c1-473c-4f06-9f29-69e6ea006f66@104.16.213.98:80?encryption=none&security=none&type=ws&host=withered-rice-1167.vafey30295.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#рџ”ҐJoin+Telegram:@Farah_VPNрџџЈ
+vmess://eyJ2IjogbnVsbCwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJhZGQiOiAic3k0LjYyMDcyMC54eXoiLCAicG9ydCI6IDQ0MywgImlkIjogIjUxNmQ4YTdhLTNmMGItNDFkMy1iYWQwLTI0NjExNjM4MTUxNiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6IG51bGwsICJob3N0IjogbnVsbCwgImFscG4iOiBudWxsLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogInN5NC42MjA3MjAueHl6IiwgImZwIjogbnVsbCwgIm5hbWUiOiAiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IHwgQFJheWRpa2FseCB8IDc1MzY3RSJ9
+vmess://eyJhZGQiOiAiMTQyLjEzMi4xNzguOTkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiYXBqaGRnZ3l4LmNvbSIsICJpZCI6ICI1ZjcyZjE4MC1iMjFiLTRiN2EtODQ4NC0yNDA3NTkwMTI2MDQiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvNWY3MmYxODAtYjIxYi00YjdhLTg0ODQtMjQwNzU5MDk2Nzg1IiwgInBjcyI6ICIiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJhcGpoZGdneXguY29tIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIiwgInZjbiI6ICIifQ==
+vless://1b766abe-05da-46fa-973c-0d06d9605736@172.66.40.99:8880?path=%2FTelegram%2C%40EXPRESSVPN_420%2FTelegram%2C%40EXPRESSVPN_420%2FTelegram%2C%40EXPRESSVPN_420%2FTelegram%2C%40EXPRESSVPN_420%2FTelegram%2C%40EXPRESSVPN_420%2FTelegram%2C%40EXPRESSVPN_420%2FTelegram%2C%40EXPRESSVPN_420%2FTelegram%2C%40EXPRESSVPN_420%2FTelegram%2C%40EXPRESSVPN_420%2FTelegram%2C%40EXPRESSVPN_420%2FTelegram%2C%40EXPRESSVPN_420%2FTelegram%2C%40EXPRESSVPN_420%2FTelegram%2C%40EXPRESSVPN_420%2FTelegram%2C%40EXPRESSVPN_420%2FTelegram%2C%40EXPRESSVPN_420%2FTelegram%2C%40EXPRESSVPN_420%2FTelegram%2C%40EXPRESSVPN_420%2FTelegram%2C%40EXPRESSVPN_420%2FTelegram%2C%40EXPRESSVPN_420%2FTelegram%2C%40EXPRESSVPN_420%2FTelegram%2C%40EXPRESSVPN_420%3Fed%3D2080&amp;security=&amp;encryption=none&amp;host=zZz.ZzZ.zZz.snap-Iranian-ali.dai.sub420-mohamad.onlinE.&amp;type=ws#рџ”ҐJoin+Telegram:@Farah_VPNрџџЈ
+vmess://eyJhZGQiOiAiMi4yNy4xNzQuMTEwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmZDJjM2M3Ny0xOTg0LTRmN2MtYmVmZS1lZmJhMDM0ZTFmM2MiLCAiaW5zZWN1cmUiOiAiMSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNzk0IiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://54b3cbba-e6ac-485a-9481-976a0873eab9@172.67.190.211:2082?encryption=none&security=none&type=ws&host=bLaCk-trutH-63Bc.DoviF72324.WoRKeRs.dev&path=%2F%3Fed%3D2560#рџ”ҐJoin+Telegram:@Farah_VPNрџџЈ
 
