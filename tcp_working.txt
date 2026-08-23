@@ -1,11 +1,11 @@
 ﻿# profile-title: TCP прогресс
 # profile-update-interval: 1
-# Date/Time: 2026-08-24 01:06:47 (Moscow)
-# Количество: 1631
+# Date/Time: 2026-08-24 01:06:51 (Moscow)
+# Количество: 1640
 #
 # === СТАТИСТИКА ===
 # YouTube: 0 | Telegram: 0 | Оба: 0
-# Средняя задержка: 270 мс
+# Средняя задержка: 272 мс
 #
 # For more info: www.github.com/ZeTKOMI/vpn-filter-service
 
@@ -1640,4 +1640,13 @@ vmess://eyJhZGQiOiAiMjMuMjI3LjM4LjM5IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI1
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#EPODONIOS
 trojan://AE62539071@one-quail.rooster465.autos:443?security=tls#EPODONIOS
+vmess://eyJhZGQiOiAiMTg1LjE2Mi4yMjguMjI5IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI1NmEyMTg4Yi0yYWI3LTQwMmMtYjliOC0zNDg0N2ZkZjA5NTgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAicHMiOiAiRVBPRE9OSU9TIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogIm9wbGcxLnpodWppY24yLmNvbSJ9
+vmess://eyJ2IjogbnVsbCwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJhZGQiOiAiYmJuai53YzkuY2N3dS5jYyIsICJwb3J0IjogODAsICJpZCI6ICIxNzk4YjE0Yi1hZWUwLTQwMDgtYmE5YS0yZTUzODc3NzYxYjQiLCAiYWlkIjogIjAiLCAic2N5IjogbnVsbCwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogbnVsbCwgImhvc3QiOiAiYmJuai53YzkuY2N3dS5jYyIsICJhbHBuIjogbnVsbCwgInBhdGgiOiAiL2tGSzlPNWNsOFp5Y3lyeGNKV05WRkMyMSIsICJ0bHMiOiAiIiwgInNuaSI6IG51bGwsICJmcCI6IG51bGwsICJuYW1lIjogIkNBIFx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiB8IEBSYXlkaWthbHggfCA2QUNCRTYifQ==
+vless://65b3cbba-e6ac-485a-9481-976a0415eab9@104.21.24.112:80?encryption=none&security=none&type=ws&host=bLue-sNoW-a243.GeleNE5962.wOrKeRS.dEV&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#рџ”ҐJoin+Telegram:@Farah_VPNрџџЈ
+vmess://eyJhZGQiOiAiY29ubmVjdG8yLmtvbG1hbi5jb20uZGUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiY2Q3LmFzb3BhcmRhei5pciIsICJpZCI6ICJiNjA5NjcwNC05Y2YwLTQ5YTUtOTI3NC0yMDA5MWE3YjljNTYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAiaHR0cHVwZ3JhZGUiLCAicGF0aCI6ICIvZjliR2JHN1pOeTVMMHR6WEtaTnhTWDRxIiwgInBvcnQiOiAiODA4MCIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICJydXNzaWEuY29tIiwgInBvcnQiOiA4ODgwLCAiaWQiOiAiNjY1OGEzYTYtMjI1YS00ZDMzLWE1ZDItODJjZmRlNTY1YjRlIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJzc3JzdWIudjAzLnNzcnN1Yi5jb20iLCAicGF0aCI6ICIvYXBpL3YzL2Rvd25sb2FkLmdldEZpbGUiLCAidGxzIjogIiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICJvei5tb29uZnJlZS50b3AiLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjlmYmI2MTIyLTQ2ZTctNDEzYi1iMjlkLTc0OWVlZjQ0NmM4ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAib3oubW9vbmZyZWUudG9wIiwgInRscyI6ICJ0bHMifQ==
+vless://11e17410-7b67-495a-ad7d-e85e8a054e43@104.18.155.69:2087?encryption=none&type=ws&security=tls&path=%2F&host=hikologoly.dearhossein-taktaz.ir&sni=hikologoly.dearhossein-taktaz.ir&fp=chrome&insecure=0&allowInsecure=0#рџ”ҐJoin+Telegram:@Farah_VPNрџџЈ
+vless://8a06cca1-d3da-4f66-bd2f-75ff5ee24163@104.21.35.39:443?encryption=none&security=tls&sni=Ppal03.ally-Hirthe.wOrKERs.DEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=ppaL03.Ally-hIRthE.woRkErs.DeV&path=%2F#рџ”ҐJoin+Telegram:@Farah_VPNрџџЈ
+vless://d4d4d103-5074-47e9-96e6-5431f4e35c57@nodefulcrum.mooo.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=nodefulcrum.mooo.com&fp=chrome&flow=xtls-rprx-vision&sid=6547735997055a35&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&encryption=none#рџ”ҐJoin+Telegram:@Farah_VPNрџџЈ
 
