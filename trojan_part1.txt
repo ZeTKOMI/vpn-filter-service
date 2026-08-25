@@ -1,0 +1,12 @@
+﻿# VPN Filter - Trojan (part1)
+# Рабочие Trojan конфиги
+# Обновлено: 2026-08-25 17:14:14
+# Конфигов: 7
+
+trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?security=tls&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
+trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?security=tls&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
+trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?security=tls&fp=qq#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
+trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?security=tls&fp=safari#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
+trojan://5e89314202a8405f@kuso30.pacemakere.com:101?security=tls&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
+trojan://5e89314202a8405f@kuso30.pacemakere.com:101?security=tls&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
+trojan://5e89314202a8405f@kuso30.pacemakere.com:101?security=tls&fp=qq#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
