@@ -1,9 +1,8 @@
 # VPN Filter - Trojan
 # Рабочие Trojan конфиги
-# Обновлено: 2026-08-25 21:06:00
-# Конфигов: 21
+# Обновлено: 2026-08-25 22:02:59
+# Конфигов: 20
 
-trojan://e9c4b07725ff4ad2@ikhk165.iamnew2020.top:20015?security=tls&fp=qq#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D
 trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
 trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
 trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
