@@ -1,6 +1,6 @@
 # VPN Filter - Все конфиги
 # Все загруженные конфиги
-# Обновлено: 2026-08-26 22:02:24
+# Обновлено: 2026-08-26 23:00:16
 # Конфигов: 682
 
 vless://b8006e78-0f7e-4216-9fa3-f1e5c3d93e4f@78.140.252.20:443?alpn=http%2F1.1&flow=xtls-rprx-vision&host=static.beeline.ru&pbk=0Z6f6RFk_mPgcqXi1pryuTLMz_phlAgBu1hWmVXIkVA&security=reality&sid=5cdef06e2f&sni=static.beeline.ru&type=tcp&fp=chrome#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%2C%20Minsk%20%7C%20%5BBL%5D
