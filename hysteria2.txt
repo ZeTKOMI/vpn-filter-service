@@ -1,6 +1,6 @@
 # VPN Filter - Hysteria2
 # Рабочие Hysteria2 конфиги
-# Обновлено: 2026-08-26 13:00:54
+# Обновлено: 2026-08-26 14:00:44
 # Конфигов: 1
 
 hysteria2://gf1%253Agfhysteria2024@66.94.121.46:443?insecure=1&security=tls&sni=www.broadcom.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D

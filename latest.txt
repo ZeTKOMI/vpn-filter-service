@@ -1,6 +1,6 @@
 # VPN Filter - ТОП-30
 # Лучшие рабочие конфиги
-# Обновлено: 2026-08-26 13:00:54
+# Обновлено: 2026-08-26 14:00:44
 # Конфигов: 30
 
 vless://8ff82100-8aad-4281-bf41-f318519d7182@fi-hel-ovh-01.sfproxy.fuck-rkn.dev:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=jobinvest.ru&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
@@ -20,6 +20,7 @@ vless://8ff82100-8aad-4281-bf41-f318519d7182@fr-gra-ovh-01.sfproxy.fuck-rkn.dev:
 vless://8ff82100-8aad-4281-bf41-f318519d7182@fr-gra-ovh-01.sfproxy.fuck-rkn.dev:50051?type=grpc&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=cd1dd1e4a801f54b&sni=jobinvest.ru&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://8ff82100-8aad-4281-bf41-f318519d7182@fr-gra-ovh-01.sfproxy.fuck-rkn.dev:50051?type=grpc&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=cd1dd1e4a801f54b&sni=jobinvest.ru&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://8ff82100-8aad-4281-bf41-f318519d7182@fr-gra-ovh-01.sfproxy.fuck-rkn.dev:50051?type=grpc&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=cd1dd1e4a801f54b&sni=jobinvest.ru&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://8ff82100-8aad-4281-bf41-f318519d7182@fr-gra-ovh-03.fuck-rkn.dev:443?security=reality&type=tcp&sni=jobinvest.ru&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://8ff82100-8aad-4281-bf41-f318519d7182@youtube.sfproxy.fuck-rkn.dev:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=uk.jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://8ff82100-8aad-4281-bf41-f318519d7182@youtube.sfproxy.fuck-rkn.dev:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=uk.jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://8ff82100-8aad-4281-bf41-f318519d7182@youtube.sfproxy.fuck-rkn.dev:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=uk.jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
@@ -32,4 +33,3 @@ vless://8ff82100-8aad-4281-bf41-f318519d7182@youtube.sfproxy.fuck-rkn.dev:443?se
 vless://8ff82100-8aad-4281-bf41-f318519d7182@youtube.sfproxy.fuck-rkn.dev:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=jobinvest.ru&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://8ff82100-8aad-4281-bf41-f318519d7182@youtube.sfproxy.fuck-rkn.dev:443?security=reality&type=tcp&sni=ar.jobinvest.ru&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://8ff82100-8aad-4281-bf41-f318519d7182@youtube.sfproxy.fuck-rkn.dev:443?security=reality&type=tcp&sni=ar.jobinvest.ru&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://8ff82100-8aad-4281-bf41-f318519d7182@youtube.sfproxy.fuck-rkn.dev:443?security=reality&type=tcp&sni=ar.jobinvest.ru&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
