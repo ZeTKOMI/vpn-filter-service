@@ -1,6 +1,6 @@
 # VPN Filter - Все конфиги
 # Все загруженные конфиги
-# Обновлено: 2026-08-26 17:07:24
+# Обновлено: 2026-08-26 18:04:46
 # Конфигов: 693
 
 vless://049b5a3c-3331-4a16-a12a-1f79c5b52d17@149.33.19.143:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=zvukipro.com&type=tcp#%F0%9F%87%A6%F0%9F%87%B7%20Argentina%2C%20Salta%20%7C%20%5BBL%5D
