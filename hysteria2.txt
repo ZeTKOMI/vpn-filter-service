@@ -1,6 +1,8 @@
 # VPN Filter - Hysteria2
 # Рабочие Hysteria2 конфиги
-# Обновлено: 2026-08-26 16:15:59
-# Конфигов: 1
+# Обновлено: 2026-08-26 17:07:24
+# Конфигов: 3
 
-hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?allowInsecure=1&sni=css.rbxcdn.com&upmbps=10&insecure=1&type=tcp&downmbps=50&nonce=e98RZ2Wn&_t=227da4f0#%F0%9F%87%B7%F0%9F%87%B4%20Romania%2C%20Bucharest%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://gf1%253Agfhysteria2024@66.94.121.46:443?insecure=1&security=tls&sni=www.broadcom.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://https%3A%2F%2Fxship.top@starlink-ft.251313.xyz:443?sni=xship.top&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20San%20Jose%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
