@@ -1,6 +1,6 @@
 # VPN Filter - ТОП-30
 # Лучшие рабочие конфиги
-# Обновлено: 2026-08-27 05:58:11
+# Обновлено: 2026-08-27 06:59:58
 # Конфигов: 30
 
 vless://4413136e-472d-4b0c-8aa5-7124462969ed@france.metricpipe.space:443?encryption=none&security=reality&sni=france.metricpipe.space&pbk=SxNM1vFitjeUuTS1MPk7HeL9FQaMlUg66KPtYVhHPAA&sid=6611e920854f4885&flow=xtls-rprx-vision&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
@@ -15,6 +15,8 @@ vless://d7297202-5d6f-4682-b550-ecf916b0cd01@38.180.186.202:443?encryption=none&
 vless://ddc16e82-b242-43c3-9c9c-96c0f1cce41b@38.180.186.202:443?encryption=none&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=zvukipro.com&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%B7%20Argentina%2C%20Buenos%20Aires%20%7C%20%5BBL%5D
 vless://ddc16e82-b242-43c3-9c9c-96c0f1cce41b@38.180.186.202:443?encryption=none&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=zvukipro.com&type=tcp&fp=firefox#%F0%9F%87%A6%F0%9F%87%B7%20Argentina%2C%20Buenos%20Aires%20%7C%20%5BBL%5D
 vless://ddc16e82-b242-43c3-9c9c-96c0f1cce41b@38.180.186.202:443?encryption=none&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=zvukipro.com&type=tcp&fp=qq#%F0%9F%87%A6%F0%9F%87%B7%20Argentina%2C%20Buenos%20Aires%20%7C%20%5BBL%5D
+vless://748ad1e3-0e23-4473-9aad-da0ace6a7d09@188.137.158.144:443?alpn=h2&encryption=none&security=tls&serviceName=grpc&sni=ezjb4e6x5ug0.bosfiles.net&type=grpc&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%7C%20%5BBL%5D
+vless://748ad1e3-0e23-4473-9aad-da0ace6a7d09@188.137.158.144:443?alpn=h2&encryption=none&security=tls&serviceName=grpc&sni=ezjb4e6x5ug0.bosfiles.net&type=grpc&fp=firefox#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%7C%20%5BBL%5D
 vless://748ad1e3-0e23-4473-9aad-da0ace6a7d09@188.137.158.144:443?alpn=h2&encryption=none&security=tls&serviceName=grpc&sni=ezjb4e6x5ug0.bosfiles.net&type=grpc&fp=qq#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%7C%20%5BBL%5D
 vless://e8652acb-1f75-4762-95eb-51d6bc44907f@188.137.158.144:443?alpn=h2&encryption=none&security=tls&serviceName=grpc&sni=ezjb4e6x5ug0.bosfiles.net&type=grpc&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%7C%20%5BBL%5D
 vless://e8652acb-1f75-4762-95eb-51d6bc44907f@188.137.158.144:443?alpn=h2&encryption=none&security=tls&serviceName=grpc&sni=ezjb4e6x5ug0.bosfiles.net&type=grpc&fp=firefox#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%7C%20%5BBL%5D
@@ -31,5 +33,3 @@ vless://4413136e-472d-4b0c-8aa5-7124462969ed@62.60.252.14:443?encryption=none&fl
 vless://4413136e-472d-4b0c-8aa5-7124462969ed@fihy2.metricpipe.space:443?encryption=none&security=reality&sni=fihy2.metricpipe.space&pbk=JyfAJWGuKtbtHgrvuS8UzETm_QT0bYMF8y_LG6zxnkM&sid=d1d650a791ab5869&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://4413136e-472d-4b0c-8aa5-7124462969ed@fihy2.metricpipe.space:443?encryption=none&security=reality&sni=fihy2.metricpipe.space&pbk=JyfAJWGuKtbtHgrvuS8UzETm_QT0bYMF8y_LG6zxnkM&sid=d1d650a791ab5869&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://e8652acb-1f75-4762-95eb-51d6bc44907f@157.173.7.109:443?alpn=h2&encryption=none&security=tls&serviceName=grpc&sni=32ukc4l1gq6h.bosfiles.net&type=grpc&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-vless://e8652acb-1f75-4762-95eb-51d6bc44907f@157.173.7.109:443?alpn=h2&encryption=none&security=tls&serviceName=grpc&sni=32ukc4l1gq6h.bosfiles.net&type=grpc&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-vless://4413136e-472d-4b0c-8aa5-7124462969ed@206.223.240.179:443?encryption=none&flow=xtls-rprx-vision&pbk=LpK8n8ScVuPu0nohacfzW546r30NbDuhrVShtgb43Ws&security=reality&sid=f47cfad7f7237218&sni=kzhy2.metricpipe.space&type=tcp&fp=firefox#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Almaty%20%28Bostandyk%20District%29%20%7C%20%5BBL%5D
