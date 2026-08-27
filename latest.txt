@@ -1,6 +1,6 @@
 # VPN Filter - ТОП-30
 # Лучшие рабочие конфиги
-# Обновлено: 2026-08-27 17:11:45
+# Обновлено: 2026-08-27 18:11:40
 # Конфигов: 30
 
 vless://3c244324-e6ad-4b07-a6c2-cc22beae76b5@bridge.sfproxy.fuck-rkn.dev:443?flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ar.jobinvest.ru&type=tcp&encryption=none&fp=firefox#%F0%9F%87%A6%F0%9F%87%B7%20Argentina%2C%20Lanus%20%7C%20%5BBL%5D
