@@ -1,7 +1,7 @@
 # VPN Filter - Trojan
 # Рабочие Trojan конфиги
-# Обновлено: 2026-08-27 06:59:58
-# Конфигов: 25
+# Обновлено: 2026-08-27 07:59:42
+# Конфигов: 9
 
 trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
 trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&type=tcp&security=tls&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
@@ -12,19 +12,3 @@ trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443/?type=tcp&security=tl
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443/?type=tcp&security=tls&sni=moltbot.doctoroyy.net&allowInsecure=1&fp=android#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2C%20Kuala%20Lumpur%20%7C%20%5BBL%5D
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443/?type=tcp&security=tls&sni=moltbot.doctoroyy.net&allowInsecure=1&fp=edge#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2C%20Kuala%20Lumpur%20%7C%20%5BBL%5D
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443/?type=tcp&security=tls&sni=moltbot.doctoroyy.net&allowInsecure=1&fp=firefox#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2C%20Kuala%20Lumpur%20%7C%20%5BBL%5D
-trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@ru-de.techdatacloud.org:8443?type=tcp&security=reality&sni=cloud.mail.ru&pbk=p6mMgExrB_TqQXaOJD_yuilS1gRB0SShvROH_cPixwc&sid=c5f8dde983234321&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@ru-de.techdatacloud.org:8443?type=tcp&security=reality&sni=cloud.mail.ru&pbk=p6mMgExrB_TqQXaOJD_yuilS1gRB0SShvROH_cPixwc&sid=c5f8dde983234321&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@ru-de.techdatacloud.org:8443?type=tcp&security=reality&sni=cloud.mail.ru&pbk=p6mMgExrB_TqQXaOJD_yuilS1gRB0SShvROH_cPixwc&sid=c5f8dde983234321&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@multi2.techdatacloud.org:8443?security=reality&sni=cloud.mail.ru&pbk=p6mMgExrB_TqQXaOJD_yuilS1gRB0SShvROH_cPixwc&sid=c5f8dde983234321&spx=%2F&type=tcp&headerType=none&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D
-trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@multi2.techdatacloud.org:8443?security=reality&sni=cloud.mail.ru&pbk=p6mMgExrB_TqQXaOJD_yuilS1gRB0SShvROH_cPixwc&sid=c5f8dde983234321&spx=%2F&type=tcp&headerType=none&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D
-trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@multi.techdatacloud.org:8443?type=tcp&security=reality&pbk=p6mMgExrB_TqQXaOJD_yuilS1gRB0SShvROH_cPixwc&sni=cloud.mail.ru&sid=c5f8dde983234321&spx=%2F&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AC%20%5B%2ACIDR%5D
-trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@multi.techdatacloud.org:8443?type=tcp&security=reality&pbk=p6mMgExrB_TqQXaOJD_yuilS1gRB0SShvROH_cPixwc&sni=cloud.mail.ru&sid=c5f8dde983234321&spx=%2F&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AC%20%5B%2ACIDR%5D
-trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@multi.techdatacloud.org:8443?type=tcp&security=reality&pbk=p6mMgExrB_TqQXaOJD_yuilS1gRB0SShvROH_cPixwc&sni=cloud.mail.ru&sid=c5f8dde983234321&spx=%2F&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AC%20%5B%2ACIDR%5D
-trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@ru-de.techdatacloud.org:8443?type=tcp&security=reality&pbk=p6mMgExrB_TqQXaOJD_yuilS1gRB0SShvROH_cPixwc&sni=cloud.mail.ru&sid=c5f8dde983234321&spx=%2F&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@ru-de.techdatacloud.org:8443?type=tcp&security=reality&pbk=p6mMgExrB_TqQXaOJD_yuilS1gRB0SShvROH_cPixwc&sni=cloud.mail.ru&sid=c5f8dde983234321&spx=%2F&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@ru-de.techdatacloud.org:8443?type=tcp&security=reality&pbk=p6mMgExrB_TqQXaOJD_yuilS1gRB0SShvROH_cPixwc&sni=cloud.mail.ru&sid=c5f8dde983234321&spx=%2F&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@multi2.techdatacloud.org:8443?security=reality&sni=cloud.mail.ru&pbk=p6mMgExrB_TqQXaOJD_yuilS1gRB0SShvROH_cPixwc&sid=c5f8dde983234321&spx=%2F&type=tcp&headerType=none&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D
-trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@multi2.techdatacloud.org:8443?security=reality&sni=cloud.mail.ru&pbk=p6mMgExrB_TqQXaOJD_yuilS1gRB0SShvROH_cPixwc&sid=c5f8dde983234321&spx=%2F&type=tcp&headerType=none&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D
-trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@multi.techdatacloud.org:8443?type=tcp&security=reality&pbk=p6mMgExrB_TqQXaOJD_yuilS1gRB0SShvROH_cPixwc&sni=cloud.mail.ru&sid=c5f8dde983234321&spx=%2F&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AC%20%5B%2ACIDR%5D
-trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@multi.techdatacloud.org:8443?type=tcp&security=reality&pbk=p6mMgExrB_TqQXaOJD_yuilS1gRB0SShvROH_cPixwc&sni=cloud.mail.ru&sid=c5f8dde983234321&spx=%2F&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AC%20%5B%2ACIDR%5D
-trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@multi.techdatacloud.org:8443?type=tcp&security=reality&pbk=p6mMgExrB_TqQXaOJD_yuilS1gRB0SShvROH_cPixwc&sni=cloud.mail.ru&sid=c5f8dde983234321&spx=%2F&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AC%20%5B%2ACIDR%5D

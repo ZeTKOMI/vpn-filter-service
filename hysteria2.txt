@@ -1,9 +1,8 @@
 # VPN Filter - Hysteria2
 # Рабочие Hysteria2 конфиги
-# Обновлено: 2026-08-27 06:59:58
+# Обновлено: 2026-08-27 07:59:42
 # Конфигов: 18
 
-hysteria2://92971ae7-d606-4c22-b566-625ffabee5b2@de253.mechvpn.online:443?insecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 hysteria2://92971ae7-d606-4c22-b566-625ffabee5b2@de5.mechvpn.online:443?insecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 hysteria2://92971ae7-d606-4c22-b566-625ffabee5b2@de5.mechvpn.online:443?sni=de5.mechvpn.online#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 hysteria2://92971ae7-d606-4c22-b566-625ffabee5b2@pl18.mechvpn.online:443?insecure=0#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Istanbul%20%7C%20%5BBL%5D
@@ -11,6 +10,7 @@ hysteria2://92971ae7-d606-4c22-b566-625ffabee5b2@pl18.mechvpn.online:443?sni=pl1
 hysteria2://92971ae7-d606-4c22-b566-625ffabee5b2@pl19.mechvpn.online:443?insecure=0#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Istanbul%20%7C%20%5BBL%5D
 hysteria2://92971ae7-d606-4c22-b566-625ffabee5b2@uk59.mechvpn.online:443?insecure=0#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
 hysteria2://92971ae7-d606-4c22-b566-625ffabee5b2@uk59.mechvpn.online:443?sni=uk59.mechvpn.online#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
+hysteria2://92971ae7-d606-4c22-b566-625ffabee5b2@de253.mechvpn.online:443?insecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 hysteria2://92971ae7-d606-4c22-b566-625ffabee5b2@de5.mechvpn.online:443?insecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 hysteria2://92971ae7-d606-4c22-b566-625ffabee5b2@de5.mechvpn.online:443?sni=de5.mechvpn.online#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?sni=speedtest.tinkoff.ru&insecure=1&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%B4%20Romania%2C%20Bucharest%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
