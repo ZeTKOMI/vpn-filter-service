@@ -1,12 +1,35 @@
-﻿
+# VPN Filter - ТОП-30 с пометками
+# YouTube и Telegram работают
+# Обновлено: 2026-08-28 01:05:39
+# Конфигов: 30
 
-
-
-
-
-
-
-
-
-
-
+vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@wsnl7.wba-pn.ru:443?path=%2F&security=tls&sni=wsnl7.wba-pn.ru&type=ws&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D [YouTube] [Telegram]
+vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@wsnl7.wba-pn.ru:443?path=%2F&security=tls&sni=wsnl7.wba-pn.ru&type=ws&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D [YouTube] [Telegram]
+vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@wsnl7.wba-pn.ru:443?path=%2F&security=tls&sni=wsnl7.wba-pn.ru&type=ws&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D [YouTube] [Telegram]
+vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@wsnl7.wba-pn.ru:443?path=%2F&security=tls&sni=wsnl7.wba-pn.ru&type=ws&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D [YouTube] [Telegram]
+vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@wsnl7.wba-pn.ru:443?path=%2F&security=tls&sni=wsnl7.wba-pn.ru&type=ws&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D [YouTube] [Telegram]
+vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@wsnl7.wba-pn.ru:443?path=%2F&security=tls&sni=wsnl7.wba-pn.ru&type=ws&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D [YouTube] [Telegram]
+vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@wsnl7.wba-pn.ru:443?security=tls&type=ws&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D [YouTube] [Telegram]
+vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@wsnl7.wba-pn.ru:443?security=tls&type=ws&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D [YouTube] [Telegram]
+vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@wsnl7.wba-pn.ru:443?security=tls&type=ws&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D [YouTube] [Telegram]
+vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@wsnl7.wba-pn.ru:443?security=tls&type=ws&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D [YouTube] [Telegram]
+vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@wsnl7.wba-pn.ru:443?security=tls&type=ws&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D [YouTube] [Telegram]
+vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@wsnl7.wba-pn.ru:443?security=tls&type=ws&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D [YouTube] [Telegram]
+vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@wsnl7.wba-pn.ru:443?security=tls&type=ws&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D [YouTube] [Telegram]
+vmess://eyJhZGQiOiIyMC4yMzUuMjIwLjE4OSIsImFpZCI6IjAiLCJob3N0IjoiNmpkdmFyYXpndTNxcXI2cS52LjNkbnMudmlwIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh63wn4ewIEhvbmcgS29uZywgSG9uZyBLb25nIHwgW0JMXSIsInNuaSI6IjZqZHZhcmF6Z3UzcXFyNnEudi4zZG5zLnZpcCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJzY3kiOiJhdXRvIiwiYWxwbiI6IiIsImZwIjoiIn0= [YouTube] [Telegram]
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D [YouTube] [Telegram]
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D [YouTube] [Telegram]
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D [YouTube] [Telegram]
+vless://064a967e-0862-4cea-bdbd-9458cb7b6070@5.42.110.24:9892?encryption=none&type=grpc&security=reality&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&serviceName=grpc-tunnel&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://064a967e-0862-4cea-bdbd-9458cb7b6070@5.42.110.24:9892?encryption=none&type=grpc&security=reality&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&serviceName=grpc-tunnel&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://2d1b9aeb-8823-4053-836a-2ea3b65c2865@tp4qqaur5hfsuesb.arpanet-cdn.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=mts.ru&pbk=XeRWYynZqOAQzh2R82AbywidddTr-gvWwgKHiXRKiSE&flow=xtls-rprx-vision&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://2d1b9aeb-8823-4053-836a-2ea3b65c2865@tp4qqaur5hfsuesb.arpanet-cdn.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=mts.ru&pbk=XeRWYynZqOAQzh2R82AbywidddTr-gvWwgKHiXRKiSE&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://2d1b9aeb-8823-4053-836a-2ea3b65c2865@tp4qqaur5hfsuesb.arpanet-cdn.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=mts.ru&pbk=XeRWYynZqOAQzh2R82AbywidddTr-gvWwgKHiXRKiSE&flow=xtls-rprx-vision&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://064a967e-0862-4cea-bdbd-9458cb7b6070@5.42.110.24:9892?encryption=none&type=grpc&security=reality&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&serviceName=grpc-tunnel&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://064a967e-0862-4cea-bdbd-9458cb7b6070@5.42.110.24:9892?encryption=none&type=grpc&security=reality&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&serviceName=grpc-tunnel&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://2d1b9aeb-8823-4053-836a-2ea3b65c2865@176.109.85.99:443?encryption=none&flow=xtls-rprx-vision&pbk=XeRWYynZqOAQzh2R82AbywidddTr-gvWwgKHiXRKiSE&security=reality&sni=mts.ru&type=raw&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://2d1b9aeb-8823-4053-836a-2ea3b65c2865@176.109.85.99:443?encryption=none&flow=xtls-rprx-vision&pbk=XeRWYynZqOAQzh2R82AbywidddTr-gvWwgKHiXRKiSE&security=reality&sni=mts.ru&type=raw&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://2d1b9aeb-8823-4053-836a-2ea3b65c2865@176.109.85.99:443?encryption=none&flow=xtls-rprx-vision&pbk=XeRWYynZqOAQzh2R82AbywidddTr-gvWwgKHiXRKiSE&security=reality&sni=mts.ru&type=raw&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://2d1b9aeb-8823-4053-836a-2ea3b65c2865@176.109.85.99:443?encryption=none&flow=xtls-rprx-vision&pbk=XeRWYynZqOAQzh2R82AbywidddTr-gvWwgKHiXRKiSE&security=reality&sni=mts.ru&type=raw&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://2d1b9aeb-8823-4053-836a-2ea3b65c2865@tp4qqaur5hfsuesb.arpanet-cdn.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=mts.ru&pbk=XeRWYynZqOAQzh2R82AbywidddTr-gvWwgKHiXRKiSE&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D [YouTube] [Telegram]
+vless://2e483b48-ad25-4c80-8806-73000fd5b031@82.202.177.148:5269?type=tcp&security=reality&pbk=fFmp4fFO2wuoJKvc2_e5MF5C92H6Ei4c_AfV7toZO1c&sid=a62ae57fa46a0d6d&sni=max.ru&fp=chrome#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D [YouTube] [Telegram]
