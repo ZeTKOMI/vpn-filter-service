@@ -1,9 +1,8 @@
 # VPN Filter - Hysteria2
 # Рабочие Hysteria2 конфиги
-# Обновлено: 2026-08-27 13:01:03
-# Конфигов: 4
+# Обновлено: 2026-08-27 14:06:57
+# Конфигов: 3
 
-hysteria2://50767b5d-7e5d-4aee-af39-5a07d36ccc36@pl20.mechvpn.online:443?alpn=h3&sni=pl20.mechvpn.online#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Istanbul%20%7C%20%5BBL%5D
 hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?allowInsecure=1&sni=css.rbxcdn.com&upmbps=10&insecure=1&type=tcp&downmbps=50&nonce=e98RZ2Wn&_t=227da4f0#%F0%9F%87%B7%F0%9F%87%B4%20Romania%2C%20Bucharest%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?sni=speedtest.tinkoff.ru&insecure=1&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%B4%20Romania%2C%20Bucharest%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://50767b5d-7e5d-4aee-af39-5a07d36ccc36@pl20.mechvpn.online:443?alpn=h3&sni=pl20.mechvpn.online#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Istanbul%20%7C%20%5BBL%5D
