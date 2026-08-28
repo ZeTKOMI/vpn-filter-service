@@ -1,6 +1,6 @@
 # VPN Filter - ТОП-30 с пометками
 # YouTube и Telegram работают
-# Обновлено: 2026-08-28 07:06:45
+# Обновлено: 2026-08-28 08:07:21
 # Конфигов: 30
 
 vless://88f9c3c2-b3dc-44aa-9490-8e9bc8133535@ca-xh1.w-mebel.pro:443?type=xhttp&security=reality&pbk=PSl6kl9PjYRHHplTqgROobUiZGFRIiSdyuI4DGg_Z3Q&sid=38bb62963264a434&sni=w-mebel.pro&path=%2Fvideo%2Fv5%2Fchunks&extra=%7B%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Toronto%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D [YouTube] [Telegram]
