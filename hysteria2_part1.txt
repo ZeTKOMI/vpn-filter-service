@@ -1,6 +1,6 @@
 ﻿# VPN Filter - Hysteria2 (part1)
 # Рабочие Hysteria2 конфиги
-# Обновлено: 2026-08-25 17:46:22
-# Конфигов: 1
+# Обновлено: 2026-08-30 15:35:59
+# Конфигов: 0
 
-hysteria2://9e09f1ce-45d4-466d-b077-81b0dae00db2@hysteria.zuuvpn.space:443?sni=hysteria.zuuvpn.space#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+
