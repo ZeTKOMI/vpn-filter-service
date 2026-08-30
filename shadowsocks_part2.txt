@@ -1,0 +1,6 @@
+﻿# VPN Filter - Shadowsocks (part2)
+# Рабочие Shadowsocks конфиги
+# Обновлено: 2026-08-30 15:40:47
+# Конфигов: 0
+
+
