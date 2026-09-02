@@ -1,0 +1,7 @@
+﻿# profile-title: Hysteria2 VPN Configs
+# profile-update-interval: 1
+# Date/Time: 2026-09-02 21:56:32 (Moscow)
+# Количество: 0
+# Все рабочие Hysteria2 конфиги
+# For more info: www.github.com/ZeTKOMI/vpn-filter-service
+# Нет рабочих конфигов

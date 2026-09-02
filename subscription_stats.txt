@@ -1,0 +1,21 @@
+﻿# profile-title: 📊 Статистика подписки
+# profile-update-interval: 1
+# Date/Time: 2026-09-02 21:56:32 (Moscow)
+# Количество: 459
+# Общая информация о всех конфигах
+# For more info: www.github.com/ZeTKOMI/vpn-filter-service
+=========================================
+📊 СТАТИСТИКА ПОДПИСКИ
+=========================================
+📅 Дата создания: 2026-09-02 21:56:32
+📊 Всего конфигов: 459
+📌 YouTube: 0
+📌 Telegram: 0
+📌 YouTube + Telegram: 0
+
+📋 По протоколам:  hysteria2 : 0
+  shadowsocks : 0
+  trojan : 0
+  vless : 0
+  vmess : 0
+
