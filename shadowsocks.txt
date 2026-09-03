@@ -1,14 +1,1 @@
-﻿# ============================================
-# Shadowsocks Subscription
-# ============================================
-# Updated: 2026-09-03 15:28:36
-# Next update: 2026-09-03 15:58:36
-# Total configs: 0
-# Protocols: No data
-# YouTube: 0 | Telegram: 0
-# Source: VPN Filter Service
-# Author: ZeTKOMI
-# ============================================
-# No configs available
-# ============================================
-
+﻿
