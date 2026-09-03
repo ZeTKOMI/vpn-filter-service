@@ -1,7 +1,14 @@
-﻿# profile-title: Shadowsocks VPN Configs
-# profile-update-interval: 1
-# Date/Time: 2026-09-02 21:56:32 (Moscow)
-# Количество: 0
-# Все рабочие Shadowsocks конфиги
-# For more info: www.github.com/ZeTKOMI/vpn-filter-service
-# Нет рабочих конфигов
+﻿# ============================================
+# Shadowsocks Subscription
+# ============================================
+# Updated: 2026-09-03 15:28:36
+# Next update: 2026-09-03 15:58:36
+# Total configs: 0
+# Protocols: No data
+# YouTube: 0 | Telegram: 0
+# Source: VPN Filter Service
+# Author: ZeTKOMI
+# ============================================
+# No configs available
+# ============================================
+
