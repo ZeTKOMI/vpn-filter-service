@@ -1,4 +1,17 @@
-﻿vless://adff89a7-bde7-4614-962a-4068a65a655e@79.174.92.143:443?type=grpc&security=tls&encryption=none&sni=cdn16.cloud-cdn.xyz&serviceName=vlgrpc&alpn=h2&mode=gun&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+﻿# ═══════════════════════════════════════════
+# 📱 VLESS Подписка
+# ═══════════════════════════════════════════
+# 📅 Дата обновления: 2026-09-03 17:23:55
+# 🔄 Частота обновления: каждые 30 минут
+# ⏰ Следующее обновление: 2026-09-03 17:53:55
+# 📊 Всего конфигов: 5
+# 🔗 Протоколы: vless
+# 🎯 YouTube: 5 | Telegram: 5
+# 📝 Описание: Современный протокол VLESS
+# ═══════════════════════════════════════════
+# Для использования добавьте этот файл в VPN клиент
+# ═══════════════════════════════════════════
+vless://adff89a7-bde7-4614-962a-4068a65a655e@79.174.92.143:443?type=grpc&security=tls&encryption=none&sni=cdn16.cloud-cdn.xyz&serviceName=vlgrpc&alpn=h2&mode=gun&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
 vless://adff89a7-bde7-4614-962a-4068a65a655e@79.174.92.143:443?type=grpc&security=tls&encryption=none&sni=cdn16.cloud-cdn.xyz&serviceName=vlgrpc&alpn=h2&mode=gun&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
 vless://adff89a7-bde7-4614-962a-4068a65a655e@79.174.92.143:443?type=grpc&security=tls&encryption=none&sni=cdn16.cloud-cdn.xyz&serviceName=vlgrpc&alpn=h2&mode=gun&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
 vless://adff89a7-bde7-4614-962a-4068a65a655e@79.174.92.143:443?type=grpc&security=tls&encryption=none&sni=cdn16.cloud-cdn.xyz&serviceName=vlgrpc&alpn=h2&mode=gun&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D

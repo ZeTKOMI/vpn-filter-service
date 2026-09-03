@@ -1,4 +1,17 @@
-﻿trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:27732?security=tls&sni=www.microsoft.com&type=tcp&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
+﻿# ═══════════════════════════════════════════
+# 📱 Trojan Подписка
+# ═══════════════════════════════════════════
+# 📅 Дата обновления: 2026-09-03 17:23:55
+# 🔄 Частота обновления: каждые 30 минут
+# ⏰ Следующее обновление: 2026-09-03 17:53:55
+# 📊 Всего конфигов: 8
+# 🔗 Протоколы: trojan
+# 🎯 YouTube: 8 | Telegram: 8
+# 📝 Описание: Протокол Trojan для обхода блокировок
+# ═══════════════════════════════════════════
+# Для использования добавьте этот файл в VPN клиент
+# ═══════════════════════════════════════════
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:27732?security=tls&sni=www.microsoft.com&type=tcp&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:27732?security=tls&sni=www.microsoft.com&type=tcp&allowInsecure=1&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:27732?security=tls&sni=www.microsoft.com&type=tcp&allowInsecure=1&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:27732?security=tls&sni=www.microsoft.com&type=tcp&allowInsecure=1&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
