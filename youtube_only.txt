@@ -1,14 +1,15 @@
 ﻿# ============================================
 # YouTube Only
 # ============================================
-# 📅 Обновлено: 2026-09-03 15:47:47
-# 🔄 Следующее обновление: 2026-09-03 16:17:47
-# 📊 Всего конфигов: 0
-# 🔗 Протоколы: Нет данных
-# 🎯 YouTube: 0 | Telegram: 0
-# 📁 Источник: VPN Filter Service
-# 🔧 Автор: ZeTKOMI
+# Дата обновления: 2026-09-03 18:33:02
+# Следующее обновление: 2026-09-03 19:03:02
+# Всего конфигов: 3
+# Протоколы: vless
+# YouTube: 3 | Telegram: 0
+# Статус: Активная
 # ============================================
-# ℹ️ Нет доступных конфигов
+# Только YouTube
 # ============================================
-
+vless://aa6f8aaf-d7ff-46f8-a9a0-d143d7e71f71@at-xh01.tcp-reset-club.net:443?encryption=none&mode=packet-up&path=%2Fassets%2Fv2%2Fpkg&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=f79448a30d&sni=s3.netavex.com&spx=%2F&type=xhttp&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B9%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5BBL%5D
+vless://aa6f8aaf-d7ff-46f8-a9a0-d143d7e71f71@at-xh01.tcp-reset-club.net:443?encryption=none&mode=packet-up&path=%2Fassets%2Fv2%2Fpkg&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=f79448a30d&sni=s3.netavex.com&spx=%2F&type=xhttp&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B9%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5BBL%5D
+vless://aa6f8aaf-d7ff-46f8-a9a0-d143d7e71f71@at-xh01.tcp-reset-club.net:443?encryption=none&mode=packet-up&path=%2Fassets%2Fv2%2Fpkg&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=f79448a30d&sni=s3.netavex.com&spx=%2F&type=xhttp&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B9%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5BBL%5D
