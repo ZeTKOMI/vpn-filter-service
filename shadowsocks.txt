@@ -1,9 +1,1 @@
-﻿# profile-title: Shadowsocks Подписка
-# profile-update-interval: 30
-# Date/Time: 2026-09-03 17:31:03
-# Количество: 0
-# Протоколы: Нет данных
-# YouTube: 0 | Telegram: 0
-# Описание: Протокол Shadowsocks
-# For more info: https://github.com/ZeTKOMI/vpn-filter-service
-
+﻿
