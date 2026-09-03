@@ -1,9 +1,9 @@
 ﻿# profile-title: HAPP - YouTube + Telegram
 # profile-update-interval: 30
-# Date/Time: 2026-09-03 20:04:32
-# Количество: 19
+# Date/Time: 2026-09-03 20:35:09
+# Количество: 24
 # Протоколы: trojan, vless
-# YouTube: 19 | Telegram: 19
+# YouTube: 24 | Telegram: 24
 # Описание: YouTube и Telegram
 # For more info: https://github.com/ZeTKOMI/vpn-filter-service
 trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http%2F1.1&host=op-1.firecone.eu&path=%2Ffemboyporn--femboyporn--femboyporn--femboyporn%2Ffree-trojan-node%2Fonly-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20M%C3%BCnster%20%7C%20%5BBL%5D
@@ -23,5 +23,10 @@ vless://219b214e-2a4f-eb6b-5727-3ee63723cdb4@69.46.46.6:443?mode=stream-up&path=
 vless://219b214e-2a4f-eb6b-5727-3ee63723cdb4@69.46.46.6:443?mode=stream-up&path=%2Fxhttp-siz10%2Fstream-up%2F219b214e-2a4f-eb6b-5727-3ee63723cdb4&security=tls&alpn=h2&encryption=none&host=sunny-horizon-9745-production.up.railway.app&type=xhttp&sni=sunny-horizon-9745-production.up.railway.app&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
 vless://219b214e-2a4f-eb6b-5727-3ee63723cdb4@69.46.46.6:443?mode=stream-up&path=%2Fxhttp-siz10%2Fstream-up%2F219b214e-2a4f-eb6b-5727-3ee63723cdb4&security=tls&alpn=h2&encryption=none&host=sunny-horizon-9745-production.up.railway.app&type=xhttp&sni=sunny-horizon-9745-production.up.railway.app&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
 vless://219b214e-2a4f-eb6b-5727-3ee63723cdb4@69.46.46.6:443?mode=stream-up&path=%2Fxhttp-siz10%2Fstream-up%2F219b214e-2a4f-eb6b-5727-3ee63723cdb4&security=tls&alpn=h2&encryption=none&host=sunny-horizon-9745-production.up.railway.app&type=xhttp&sni=sunny-horizon-9745-production.up.railway.app&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@85.158.108.125:9462?type=grpc&headerType=none&security=reality&encryption=none&sni=www.google.com&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&spx=%2F&serviceName=TunService&fp=android#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@85.158.108.125:9462?type=grpc&headerType=none&security=reality&encryption=none&sni=www.google.com&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&spx=%2F&serviceName=TunService&fp=safari#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@status.savesafe.cc:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=status.savesafe.cc&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs&sid=62b6d6e51d461d78&path=%2F&host=status.savesafe.cc&fp=android#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%5BBL%5D
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@status.savesafe.cc:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=status.savesafe.cc&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs&sid=62b6d6e51d461d78&path=%2F&host=status.savesafe.cc&fp=chrome#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%5BBL%5D
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@status.savesafe.cc:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=status.savesafe.cc&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs&sid=62b6d6e51d461d78&path=%2F&host=status.savesafe.cc&fp=edge#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%5BBL%5D
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@status.savesafe.cc:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=status.savesafe.cc&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs&sid=62b6d6e51d461d78&path=%2F&host=status.savesafe.cc&fp=firefox#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%5BBL%5D
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@status.savesafe.cc:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=status.savesafe.cc&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs&sid=62b6d6e51d461d78&path=%2F&host=status.savesafe.cc&fp=ios#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%5BBL%5D
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@status.savesafe.cc:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=status.savesafe.cc&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs&sid=62b6d6e51d461d78&path=%2F&host=status.savesafe.cc&fp=qq#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%5BBL%5D
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@status.savesafe.cc:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=status.savesafe.cc&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs&sid=62b6d6e51d461d78&path=%2F&host=status.savesafe.cc&fp=safari#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%5BBL%5D
