@@ -1,22 +1,16 @@
 ﻿# ============================================
 # VLESS Подписка
 # ============================================
-# Дата обновления: 2026-09-03 17:17:04
-# Следующее обновление: 2026-09-03 17:47:04
-# Всего конфигов: 11
+# Дата обновления: 2026-09-03 17:21:15
+# Следующее обновление: 2026-09-03 17:51:15
+# Всего конфигов: 5
 # Протоколы: vless
-# YouTube: 7 | Telegram: 11
+# YouTube: 5 | Telegram: 5
 # ============================================
 # Протокол VLESS - современный
 # ============================================
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11444?encryption=none&type=grpc&security=reality&sni=mageia.ubuntuhosting.host&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=d05e7ab9872797f4&serviceName=gun&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5B%2ACIDR%5D
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11444?encryption=none&type=grpc&security=reality&sni=mageia.ubuntuhosting.host&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=d05e7ab9872797f4&serviceName=gun&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5B%2ACIDR%5D
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11444?encryption=none&type=grpc&security=reality&sni=mageia.ubuntuhosting.host&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=d05e7ab9872797f4&serviceName=gun&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5B%2ACIDR%5D
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11444?encryption=none&type=grpc&security=reality&sni=mageia.ubuntuhosting.host&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=d05e7ab9872797f4&serviceName=gun&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5B%2ACIDR%5D
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11446?encryption=none&mode=gun&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&security=reality&serviceName=gun&sid=b34f41089f1e&sni=mageia.ubuntuhosting.host&type=grpc&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11446?encryption=none&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&security=reality&serviceName=gun&sid=d05e7ab9872797f4&sni=mageia.ubuntuhosting.host&type=grpc&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11446?encryption=none&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&security=reality&serviceName=gun&sid=d05e7ab9872797f4&sni=mageia.ubuntuhosting.host&type=grpc&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11446?encryption=none&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&security=reality&serviceName=gun&sid=d05e7ab9872797f4&sni=mageia.ubuntuhosting.host&type=grpc&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11446?encryption=none&type=grpc&security=reality&sni=mageia.ubuntuhosting.host&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=b34f41089f1e&serviceName=gun&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11446?encryption=none&type=grpc&security=reality&sni=mageia.ubuntuhosting.host&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=b34f41089f1e&serviceName=gun&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11446?encryption=none&type=grpc&security=reality&sni=mageia.ubuntuhosting.host&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=b34f41089f1e&serviceName=gun&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
+vless://adff89a7-bde7-4614-962a-4068a65a655e@79.174.92.143:443?type=grpc&security=tls&encryption=none&sni=cdn16.cloud-cdn.xyz&serviceName=vlgrpc&alpn=h2&mode=gun&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://adff89a7-bde7-4614-962a-4068a65a655e@79.174.92.143:443?type=grpc&security=tls&encryption=none&sni=cdn16.cloud-cdn.xyz&serviceName=vlgrpc&alpn=h2&mode=gun&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://adff89a7-bde7-4614-962a-4068a65a655e@79.174.92.143:443?type=grpc&security=tls&encryption=none&sni=cdn16.cloud-cdn.xyz&serviceName=vlgrpc&alpn=h2&mode=gun&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://adff89a7-bde7-4614-962a-4068a65a655e@79.174.92.143:443?type=grpc&security=tls&encryption=none&sni=cdn16.cloud-cdn.xyz&serviceName=vlgrpc&alpn=h2&mode=gun&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://adff89a7-bde7-4614-962a-4068a65a655e@79.174.92.143:443?type=grpc&security=tls&encryption=none&sni=cdn16.cloud-cdn.xyz&serviceName=vlgrpc&alpn=h2&mode=gun&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
