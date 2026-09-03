@@ -1,13 +1,13 @@
 ﻿# ============================================
 # VMess Подписка
 # ============================================
-# Дата обновления: 2026-09-03 21:07:43
-# Следующее обновление: 2026-09-03 21:37:43
+# Дата обновления: 2026-09-03 21:38:31
+# Следующее обновление: 2026-09-03 22:08:31
 # Всего конфигов: 1
 # Протоколы: vmess
-# YouTube: 1 | Telegram: 0
+# YouTube: 1 | Telegram: 1
 # Статус: Активная
 # ============================================
 # Протокол VMess
 # ============================================
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSG9uZyBLb25nLCBIb25nIEtvbmcgfCBbQkxdIiwiYWRkIjoibXRja3VuZGlnZXB3dTN1cC52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwiaG9zdCI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSG9uZyBLb25nLCBIb25nIEtvbmcgfCBbQkxdIiwiYWRkIjoiY2UwZ2VkcHh3b3U2Y3Fvbi52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiY0UwZ2VkUFh3T1U2Y3FvTi52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6ImNFMGdlZFBYd09VNmNxb04udi4zZG5zLnZpcCIsImFscG4iOiIiLCJmcCI6IiJ9
