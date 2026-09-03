@@ -4,8 +4,10 @@
 # Количество: 140
 # Протоколы: hysteria2, shadowsocks, trojan, vless, vmess
 # YouTube: 0 | Telegram: 0
-# Описание: Полный список
-# For more info: https://github.com/ZeTKOMI/vpn-filter-service
+# Статус: Активная
+# ============================================
+# Полный список
+# ============================================
 hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160/?insecure=1&sni=www.bing.com#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Yangcheondong%20%7C%20%5BBL%5D
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:4433?insecure=1&sni=ru1.xiaoliyu.cyou#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@xg1.mangshe.xyz:2056?insecure=1&sni=hdlb1.mangshe.xyz#%F0%9F%87%A8%F0%9F%87%B3%20China%2C%20Haidian%20%28Haidian%20Qu%29%20%7C%20%5BBL%5D
