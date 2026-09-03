@@ -1,10 +1,11 @@
-﻿# ============================================
-# Trojan Подписка
-# ============================================
-# Дата обновления: 2026-09-03 18:27:10
-# Всего конфигов: 0
-# Статус: Нет рабочих конфигов
-# ============================================
-# Протокол Trojan
-# ============================================
-
+﻿# profile-title: Trojan Подписка
+# profile-update-interval: 30
+# Date/Time: 2026-09-03 18:32:22
+# Количество: 3
+# Протоколы: trojan
+# YouTube: 3 | Telegram: 1
+# Описание: Протокол Trojan
+# For more info: https://github.com/ZeTKOMI/vpn-filter-service
+trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http%2F1.1&host=op-1.firecone.eu&path=%2Ffemboyporn--femboyporn--femboyporn--femboyporn%2Ffree-trojan-node%2Fonly-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20M%C3%BCnster%20%7C%20%5BBL%5D
+trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http%2F1.1&host=op-1.firecone.eu&path=%2Ffemboyporn--femboyporn--femboyporn--femboyporn%2Ffree-trojan-node%2Fonly-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20M%C3%BCnster%20%7C%20%5BBL%5D
+trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http%2F1.1&host=op-1.firecone.eu&path=%2Ffemboyporn--femboyporn--femboyporn--femboyporn%2Ffree-trojan-node%2Fonly-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20M%C3%BCnster%20%7C%20%5BBL%5D
