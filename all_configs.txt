@@ -6,10 +6,8 @@
 # Всего конфигов: 121
 # Протоколы: hysteria2, shadowsocks, trojan, vless, vmess
 # YouTube: 0 | Telegram: 0
-# Статус: Активная
-# ============================================
-# Полный список
-# ============================================
+# Описание: Полный список
+# For more info: https://github.com/ZeTKOMI/vpn-filter-service
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:4433?insecure=1&sni=ru1.xiaoliyu.cyou#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 ss://YWVzLTI1Ni1nY206ekRpN0tzdm96UkxrdW1OTUN5dWR0VlFteEdaakoyLzJRVWJXNzduV21lYz0@194.67.74.198:44581#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:46292?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.microsoft.com&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D

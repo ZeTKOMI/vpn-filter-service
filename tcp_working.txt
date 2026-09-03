@@ -6,11 +6,8 @@
 # Всего конфигов: 105
 # Протоколы: shadowsocks, trojan, vless, vmess
 # YouTube: 0 | Telegram: 0
-# Статус: Активная
-# ============================================
-# TCP соединение
-# ============================================
-ss://YWVzLTI1Ni1nY206ekRpN0tzdm96UkxrdW1OTUN5dWR0VlFteEdaakoyLzJRVWJXNzduV21lYz0@194.67.74.198:44581#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# Описание: TCP соединение
+# For more info: https://github.com/ZeTKOMI/vpn-filter-service
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:46292?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.microsoft.com&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:46292?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.microsoft.com&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:46292?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.microsoft.com&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
