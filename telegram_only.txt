@@ -1,13 +1,13 @@
 ﻿# ============================================
 # Telegram Only
 # ============================================
-# Дата обновления: 2026-09-04 17:15:45
-# Следующее обновление: 2026-09-04 17:45:45
+# Дата обновления: 2026-09-04 18:17:04
+# Следующее обновление: 2026-09-04 18:47:04
 # Всего конфигов: 1
-# Протоколы: vless
+# Протоколы: trojan
 # YouTube: 0 | Telegram: 1
 # Статус: Активная
 # ============================================
 # Только Telegram
 # ============================================
-vless://a817d012-0eeb-4b13-9f8e-0269e939d6f6@us01.botovod.space:8021?security=reality&encryption=none&sni=video.yandex.ru&pbk=QV92PYZ07ryeciKT4zkihDa9h-Swv9npq1mgF6dhgnc&sid=3b9ca2bc82d2c603&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Sulphur%20Springs%20%7C%20%5BBL%5D
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
