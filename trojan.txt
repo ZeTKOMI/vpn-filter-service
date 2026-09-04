@@ -1,9 +1,15 @@
-﻿# profile-title: Trojan Подписка
-# profile-update-interval: 30
-# Date/Time: 2026-09-04 17:32:59
-# Количество: 0
-# Протоколы: Нет данных
-# YouTube: 0 | Telegram: 0
-# Описание: Протокол Trojan
-# For more info: https://github.com/ZeTKOMI/vpn-filter-service
-
+﻿# ============================================
+# Trojan Подписка
+# ============================================
+# Дата обновления: 2026-09-04 18:17:03
+# Следующее обновление: 2026-09-04 18:47:03
+# Всего конфигов: 3
+# Протоколы: trojan
+# YouTube: 2 | Telegram: 3
+# Статус: Активная
+# ============================================
+# Протокол Trojan
+# ============================================
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
