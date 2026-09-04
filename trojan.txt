@@ -1,15 +1,13 @@
 ﻿# profile-title: Trojan Подписка
 # profile-update-interval: 30
-# Date/Time: 2026-09-04 21:07:42
-# Количество: 7
+# Date/Time: 2026-09-04 21:38:41
+# Количество: 5
 # Протоколы: trojan
-# YouTube: 7 | Telegram: 7
+# YouTube: 1 | Telegram: 5
 # Описание: Протокол Trojan
 # For more info: https://github.com/ZeTKOMI/vpn-filter-service
-trojan://v2whz6ahmyy2f84j@subtu.charsoulink3.ir:2087?sni=pus.mmdaqaorg2.ir&headerType=none&allowInsecure=0&type=tcp&insecure=0&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&fp=android#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://v2whz6ahmyy2f84j@subtu.charsoulink3.ir:2087?sni=pus.mmdaqaorg2.ir&headerType=none&allowInsecure=0&type=tcp&insecure=0&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://v2whz6ahmyy2f84j@subtu.charsoulink3.ir:2087?sni=pus.mmdaqaorg2.ir&headerType=none&allowInsecure=0&type=tcp&insecure=0&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&fp=edge#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://v2whz6ahmyy2f84j@subtu.charsoulink3.ir:2087?sni=pus.mmdaqaorg2.ir&headerType=none&allowInsecure=0&type=tcp&insecure=0&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://v2whz6ahmyy2f84j@subtu.charsoulink3.ir:2087?sni=pus.mmdaqaorg2.ir&headerType=none&allowInsecure=0&type=tcp&insecure=0&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&fp=ios#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://v2whz6ahmyy2f84j@subtu.charsoulink3.ir:2087?sni=pus.mmdaqaorg2.ir&headerType=none&allowInsecure=0&type=tcp&insecure=0&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&fp=qq#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://v2whz6ahmyy2f84j@subtu.charsoulink3.ir:2087?sni=pus.mmdaqaorg2.ir&headerType=none&allowInsecure=0&type=tcp&insecure=0&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&fp=safari#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=ios#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
+trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=android#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Pioneer%29%20%7C%20%5BBL%5D
+trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Pioneer%29%20%7C%20%5BBL%5D
+trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=firefox#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Pioneer%29%20%7C%20%5BBL%5D
+trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@ww12.levikogjgfdd.ir:50573?allowInsecure=1&insecure=1&type=tcp&security=tls&host=Telegram-Leviko_v2ray&sni=Telegram-Leviko_v2ray#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Pioneer%29%20%7C%20%5BBL%5D
