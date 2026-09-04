@@ -1,14 +1,17 @@
 ﻿# profile-title: TLS рабочие
 # profile-update-interval: 30
-# Date/Time: 2026-09-04 18:03:31
-# Количество: 6
-# Протоколы: hysteria2, vless
+# Date/Time: 2026-09-04 18:34:01
+# Количество: 9
+# Протоколы: trojan, vless
 # YouTube: 0 | Telegram: 0
 # Описание: TLS соединение
 # For more info: https://github.com/ZeTKOMI/vpn-filter-service
-hysteria2://29c2de1cf5408523ed4d3252199079d2@108.59.244.158:443?insecure=1&sni=vk.ru#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D
-vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@188.124.47.34:9891?encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc&fp=chrome#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%5B%2ACIDR%5D
-vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@188.124.47.34:9891?encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc&fp=edge#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%5B%2ACIDR%5D
-vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@188.124.47.34:9891?encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc&fp=firefox#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%5B%2ACIDR%5D
-vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@188.124.47.34:9891?encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc&fp=ios#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%5B%2ACIDR%5D
-vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@188.124.47.34:9891?encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc&fp=safari#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%5B%2ACIDR%5D
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
+vless://78a5dd29-baac-4e4d-b9bd-a3a722bb317a@178.250.157.206:443?encryption=none&flow=xtls-rprx-vision&pbk=w-7BT5ZSqB0B25D5_c5BOv59U1v8LUc-gx2HNF7kZQQ&security=reality&sid=bff30c0187d4ee2b&sni=xuvamom-virilol.thistlemeadow.me&type=tcp&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+vless://78a5dd29-baac-4e4d-b9bd-a3a722bb317a@178.250.157.206:443?encryption=none&flow=xtls-rprx-vision&pbk=w-7BT5ZSqB0B25D5_c5BOv59U1v8LUc-gx2HNF7kZQQ&security=reality&sid=bff30c0187d4ee2b&sni=xuvamom-virilol.thistlemeadow.me&type=tcp&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+vless://78a5dd29-baac-4e4d-b9bd-a3a722bb317a@178.250.157.206:443?encryption=none&flow=xtls-rprx-vision&pbk=w-7BT5ZSqB0B25D5_c5BOv59U1v8LUc-gx2HNF7kZQQ&security=reality&sid=bff30c0187d4ee2b&sni=xuvamom-virilol.thistlemeadow.me&type=tcp&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://78a5dd29-baac-4e4d-b9bd-a3a722bb317a@178.250.157.206:443?encryption=none&flow=xtls-rprx-vision&pbk=w-7BT5ZSqB0B25D5_c5BOv59U1v8LUc-gx2HNF7kZQQ&security=reality&sid=bff30c0187d4ee2b&sni=xuvamom-virilol.thistlemeadow.me&type=tcp&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://78a5dd29-baac-4e4d-b9bd-a3a722bb317a@178.250.157.206:443?encryption=none&flow=xtls-rprx-vision&pbk=w-7BT5ZSqB0B25D5_c5BOv59U1v8LUc-gx2HNF7kZQQ&security=reality&sid=bff30c0187d4ee2b&sni=xuvamom-virilol.thistlemeadow.me&type=tcp&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
