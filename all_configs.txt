@@ -1,7 +1,7 @@
 ﻿# profile-title: Все конфиги
 # profile-update-interval: 30
-# Date/Time: 2026-09-04 04:15:03
-# Количество: 344
+# Date/Time: 2026-09-04 04:45:47
+# Количество: 346
 # Протоколы: hysteria2, trojan, vless, vmess
 # YouTube: 0 | Telegram: 0
 # Описание: Полный список
@@ -82,6 +82,8 @@ vless://23578a2c-2493-41f0-89ef-d7d3a7b85252@sa-aef7eaca981d2a80.sr-d8a007cac7ec
 vless://2eb1e3e2-34b9-4ca8-864f-9fada68d6c81@93.77.188.102:443?alpn=h2&encryption=none&path=%2Fapi%2Fv1%2F&security=tls&sni=wde5.whitedeu.org&type=xhttp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
 vless://2eb1e3e2-34b9-4ca8-864f-9fada68d6c81@93.77.188.102:443?encryption=none&flow=xtls-rprx-vision&fp=ios&security=tls&sni=wde5.whitedeu.org&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
 vless://2eb1e3e2-34b9-4ca8-864f-9fada68d6c81@93.77.188.102:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=wde5.whitedeu.org&type=tcp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+vless://2eb1e3e2-34b9-4ca8-864f-9fada68d6c81@93.77.188.102:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=wde5.whitedeu.org#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+vless://2eb1e3e2-34b9-4ca8-864f-9fada68d6c81@bs1.whitehost.org:443?security=tls&encryption=none&insecure=0&headerType=none&fp=ios&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=wde5.whitedeu.org#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
 vless://2eb1e3e2-34b9-4ca8-864f-9fada68d6c81@bs1.whitehost.org:443?type=tcp&headerType=none&security=tls&encryption=none&sni=wde5.whitedeu.org&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
 vless://2eb1e3e2-34b9-4ca8-864f-9fada68d6c81@bs1.whitehost.org:443?type=tcp&headerType=none&security=tls&encryption=none&sni=wde5.whitedeu.org&flow=xtls-rprx-vision&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
 vless://2eb1e3e2-34b9-4ca8-864f-9fada68d6c81@bs1.whitehost.org:443?type=tcp&headerType=none&security=tls&encryption=none&sni=wde5.whitedeu.org&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
