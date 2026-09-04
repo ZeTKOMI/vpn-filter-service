@@ -1,21 +1,13 @@
 ﻿# profile-title: MIXED - Смешанная
 # profile-update-interval: 30
-# Date/Time: 2026-09-04 15:31:02
-# Количество: 17
-# Протоколы: hysteria2, vless
-# YouTube: 16 | Telegram: 16
+# Date/Time: 2026-09-04 16:01:30
+# Количество: 11
+# Протоколы: hysteria2, vless, vmess
+# YouTube: 11 | Telegram: 11
 # Описание: YouTube или Telegram
 # For more info: https://github.com/ZeTKOMI/vpn-filter-service
 hysteria2://29c2de1cf5408523ed4d3252199079d2@108.59.244.158:443?insecure=1&sni=vk.ru#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20vk.ru
 hysteria2://29c2de1cf5408523ed4d3252199079d2@108.59.244.158:443?insecure=1&sni=vk.ru#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D
-vless://6baa3b8c-6410-4d09-a795-46cac61274cc@87.247.142.157:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=origin.repaironline.biz&type=tcp&fp=android#%F0%9F%87%AC%F0%9F%87%B7%20Greece%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-vless://6baa3b8c-6410-4d09-a795-46cac61274cc@87.247.142.157:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=origin.repaironline.biz&type=tcp&fp=edge#%F0%9F%87%AC%F0%9F%87%B7%20Greece%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-vless://6baa3b8c-6410-4d09-a795-46cac61274cc@87.247.142.157:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=origin.repaironline.biz&type=tcp&fp=firefox#%F0%9F%87%AC%F0%9F%87%B7%20Greece%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-vless://6baa3b8c-6410-4d09-a795-46cac61274cc@87.247.142.157:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=origin.repaironline.biz&type=tcp&fp=ios#%F0%9F%87%AC%F0%9F%87%B7%20Greece%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-vless://6baa3b8c-6410-4d09-a795-46cac61274cc@87.247.142.157:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=origin.repaironline.biz&type=tcp&fp=qq#%F0%9F%87%AC%F0%9F%87%B7%20Greece%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-vless://89bb80a2-dfc9-4f23-8026-40d58dd53026@193.33.133.194:443?encryption=none&type=grpc&security=reality&sni=ozon.ru&pbk=5f_7knvdTuK5bek16zI3cgP5sjDAPJaeFKjd-NALfwQ&serviceName=grpc&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-vless://89bb80a2-dfc9-4f23-8026-40d58dd53026@193.33.133.194:443?encryption=none&type=grpc&security=reality&sni=ozon.ru&pbk=5f_7knvdTuK5bek16zI3cgP5sjDAPJaeFKjd-NALfwQ&serviceName=grpc&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-vless://89bb80a2-dfc9-4f23-8026-40d58dd53026@193.33.133.194:443?encryption=none&type=grpc&security=reality&sni=ozon.ru&pbk=5f_7knvdTuK5bek16zI3cgP5sjDAPJaeFKjd-NALfwQ&serviceName=grpc&fp=safari#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
 vless://a817d012-0eeb-4b13-9f8e-0269e939d6f6@us01.botovod.space:8021?security=reality&encryption=none&sni=video.yandex.ru&pbk=QV92PYZ07ryeciKT4zkihDa9h-Swv9npq1mgF6dhgnc&sid=3b9ca2bc82d2c603&flow=xtls-rprx-vision&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Sulphur%20Springs%20%7C%20%5BBL%5D
 vless://a817d012-0eeb-4b13-9f8e-0269e939d6f6@us01.botovod.space:8021?security=reality&encryption=none&sni=video.yandex.ru&pbk=QV92PYZ07ryeciKT4zkihDa9h-Swv9npq1mgF6dhgnc&sid=3b9ca2bc82d2c603&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Sulphur%20Springs%20%7C%20%5BBL%5D
 vless://a817d012-0eeb-4b13-9f8e-0269e939d6f6@us01.botovod.space:8021?security=reality&encryption=none&sni=video.yandex.ru&pbk=QV92PYZ07ryeciKT4zkihDa9h-Swv9npq1mgF6dhgnc&sid=3b9ca2bc82d2c603&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Sulphur%20Springs%20%7C%20%5BBL%5D
@@ -23,3 +15,5 @@ vless://a817d012-0eeb-4b13-9f8e-0269e939d6f6@us01.botovod.space:8021?security=re
 vless://a817d012-0eeb-4b13-9f8e-0269e939d6f6@us01.botovod.space:8021?security=reality&encryption=none&sni=video.yandex.ru&pbk=QV92PYZ07ryeciKT4zkihDa9h-Swv9npq1mgF6dhgnc&sid=3b9ca2bc82d2c603&flow=xtls-rprx-vision&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Sulphur%20Springs%20%7C%20%5BBL%5D
 vless://a817d012-0eeb-4b13-9f8e-0269e939d6f6@us01.botovod.space:8021?security=reality&encryption=none&sni=video.yandex.ru&pbk=QV92PYZ07ryeciKT4zkihDa9h-Swv9npq1mgF6dhgnc&sid=3b9ca2bc82d2c603&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Sulphur%20Springs%20%7C%20%5BBL%5D
 vless://a817d012-0eeb-4b13-9f8e-0269e939d6f6@us01.botovod.space:8021?security=reality&encryption=none&sni=video.yandex.ru&pbk=QV92PYZ07ryeciKT4zkihDa9h-Swv9npq1mgF6dhgnc&sid=3b9ca2bc82d2c603&flow=xtls-rprx-vision&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Sulphur%20Springs%20%7C%20%5BBL%5D
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogR2VybWFueSBbKkNJRFJdIiwiYWRkIjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwicG9ydCI6IjQ0MyIsImlkIjoiZGI1MGEyMGUtN2ZmNS00ZTcwLTk0OGYtMTdjYzljYTdjMTU0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInRscyI6InRscyIsImhvc3QiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiZGI1MGEyMGUtN2ZmNS00ZTcwLTk0OGYtMTdjYzljYTdjMTU0IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInBjcyI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6nwn4eqIEdlcm1hbnkgfCBbKkNJRFJdIiwic2N5IjoiYXV0byIsInNuaSI6InJlbmRlcmVyLXN0cmVhbS0yLTYyLm1pcnJhLm5vdyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9
