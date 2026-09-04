@@ -1,9 +1,9 @@
 ﻿# profile-title: Hysteria2 Подписка
 # profile-update-interval: 30
-# Date/Time: 2026-09-04 12:27:44
-# Количество: 0
-# Протоколы: Нет данных
-# YouTube: 0 | Telegram: 0
+# Date/Time: 2026-09-04 12:58:27
+# Количество: 1
+# Протоколы: hysteria2
+# YouTube: 1 | Telegram: 1
 # Описание: Протокол Hysteria2
 # For more info: https://github.com/ZeTKOMI/vpn-filter-service
-
+hysteria2://29c2de1cf5408523ed4d3252199079d2@108.59.244.158:443?insecure=1&sni=vk.ru#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20vk.ru
