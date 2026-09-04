@@ -1,11 +1,18 @@
 ﻿# profile-title: VLESS Подписка
 # profile-update-interval: 30
-# Date/Time: 2026-09-04 16:01:30
-# Количество: 7
+# Date/Time: 2026-09-04 16:31:57
+# Количество: 14
 # Протоколы: vless
-# YouTube: 7 | Telegram: 7
+# YouTube: 14 | Telegram: 7
 # Описание: Протокол VLESS
 # For more info: https://github.com/ZeTKOMI/vpn-filter-service
+vless://0678ed07-980a-49c1-9066-05caec654967@fi-xh01.tcp-reset-club.net:443?encryption=none&mode=packet-up&path=%2Fassets%2Fv2%2Fpkg&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=f79448a30d&sni=s3.netavex.com&type=xhttp&fp=android#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://0678ed07-980a-49c1-9066-05caec654967@fi-xh01.tcp-reset-club.net:443?encryption=none&mode=packet-up&path=%2Fassets%2Fv2%2Fpkg&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=f79448a30d&sni=s3.netavex.com&type=xhttp&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://0678ed07-980a-49c1-9066-05caec654967@fi-xh01.tcp-reset-club.net:443?encryption=none&mode=packet-up&path=%2Fassets%2Fv2%2Fpkg&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=f79448a30d&sni=s3.netavex.com&type=xhttp&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://0678ed07-980a-49c1-9066-05caec654967@fi-xh01.tcp-reset-club.net:443?encryption=none&mode=packet-up&path=%2Fassets%2Fv2%2Fpkg&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=f79448a30d&sni=s3.netavex.com&type=xhttp&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://0678ed07-980a-49c1-9066-05caec654967@fi-xh01.tcp-reset-club.net:443?encryption=none&mode=packet-up&path=%2Fassets%2Fv2%2Fpkg&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=f79448a30d&sni=s3.netavex.com&type=xhttp&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://0678ed07-980a-49c1-9066-05caec654967@fi-xh01.tcp-reset-club.net:443?encryption=none&mode=packet-up&path=%2Fassets%2Fv2%2Fpkg&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=f79448a30d&sni=s3.netavex.com&type=xhttp&fp=qq#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://0678ed07-980a-49c1-9066-05caec654967@fi-xh01.tcp-reset-club.net:443?encryption=none&mode=packet-up&path=%2Fassets%2Fv2%2Fpkg&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=f79448a30d&sni=s3.netavex.com&type=xhttp&fp=random#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://a817d012-0eeb-4b13-9f8e-0269e939d6f6@us01.botovod.space:8021?security=reality&encryption=none&sni=video.yandex.ru&pbk=QV92PYZ07ryeciKT4zkihDa9h-Swv9npq1mgF6dhgnc&sid=3b9ca2bc82d2c603&flow=xtls-rprx-vision&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Sulphur%20Springs%20%7C%20%5BBL%5D
 vless://a817d012-0eeb-4b13-9f8e-0269e939d6f6@us01.botovod.space:8021?security=reality&encryption=none&sni=video.yandex.ru&pbk=QV92PYZ07ryeciKT4zkihDa9h-Swv9npq1mgF6dhgnc&sid=3b9ca2bc82d2c603&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Sulphur%20Springs%20%7C%20%5BBL%5D
 vless://a817d012-0eeb-4b13-9f8e-0269e939d6f6@us01.botovod.space:8021?security=reality&encryption=none&sni=video.yandex.ru&pbk=QV92PYZ07ryeciKT4zkihDa9h-Swv9npq1mgF6dhgnc&sid=3b9ca2bc82d2c603&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Sulphur%20Springs%20%7C%20%5BBL%5D
