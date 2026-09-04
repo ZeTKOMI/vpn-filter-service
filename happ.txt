@@ -1,19 +1,39 @@
 ﻿# ============================================
 # HAPP - YouTube + Telegram
 # ============================================
-# Дата обновления: 2026-09-04 19:49:26
-# Следующее обновление: 2026-09-04 20:19:26
-# Всего конфигов: 7
+# Дата обновления: 2026-09-04 20:20:29
+# Следующее обновление: 2026-09-04 20:50:29
+# Всего конфигов: 27
 # Протоколы: trojan, vless
-# YouTube: 7 | Telegram: 7
+# YouTube: 27 | Telegram: 27
 # Статус: Активная
 # ============================================
 # Работают YouTube и Telegram
 # ============================================
+trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http%2F1.1&host=op-1.firecone.eu&path=%2Ffemboyporn--femboyporn--femboyporn--femboyporn%2Ffree-trojan-node%2Fonly-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20M%C3%BCnster%20%7C%20%5BBL%5D
 trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http%2F1.1&host=op-1.firecone.eu&path=%2Ffemboyporn--femboyporn--femboyporn--femboyporn%2Ffree-trojan-node%2Fonly-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20M%C3%BCnster%20%7C%20%5BBL%5D
+trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http%2F1.1&host=op-1.firecone.eu&path=%2Ffemboyporn--femboyporn--femboyporn--femboyporn%2Ffree-trojan-node%2Fonly-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20M%C3%BCnster%20%7C%20%5BBL%5D
+trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http%2F1.1&host=op-1.firecone.eu&path=%2Ffemboyporn--femboyporn--femboyporn--femboyporn%2Ffree-trojan-node%2Fonly-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20M%C3%BCnster%20%7C%20%5BBL%5D
+trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http%2F1.1&host=op-1.firecone.eu&path=%2Ffemboyporn--femboyporn--femboyporn--femboyporn%2Ffree-trojan-node%2Fonly-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20M%C3%BCnster%20%7C%20%5BBL%5D
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@188.124.47.34:9891?encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc&fp=chrome#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B%2ACIDR%5D
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@188.124.47.34:9891?encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc&fp=edge#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B%2ACIDR%5D
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@188.124.47.34:9891?encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc&fp=firefox#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B%2ACIDR%5D
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@188.124.47.34:9891?encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc&fp=ios#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B%2ACIDR%5D
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@188.124.47.34:9891?encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc&fp=safari#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B%2ACIDR%5D
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@94.241.143.161:9871?encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@94.241.143.161:9871?encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@94.241.143.161:9871?encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@94.241.143.161:9871?encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@94.241.143.161:9871?encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@95.143.190.125:9895?encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@95.143.190.125:9895?encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@95.143.190.125:9895?encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc&fp=ios#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@95.143.190.125:9895?encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@95.143.190.125:9895?encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc&fp=safari#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
 vless://f8738084-d3e4-457b-a15e-10d85709681f@schkyydshktbgwxx.cfooov.xyz:46899?flow=xtls-rprx-vision&pbk=nbIa7R7_-I8T24U2C1Q3-wuiQVUmAahxdSo33AjKYiA&security=reality&sid=63bdbd0662a3da&sni=www.apple.com&type=tcp&fp=android#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D
 vless://f8738084-d3e4-457b-a15e-10d85709681f@schkyydshktbgwxx.cfooov.xyz:46899?flow=xtls-rprx-vision&pbk=nbIa7R7_-I8T24U2C1Q3-wuiQVUmAahxdSo33AjKYiA&security=reality&sid=63bdbd0662a3da&sni=www.apple.com&type=tcp&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D
 vless://f8738084-d3e4-457b-a15e-10d85709681f@schkyydshktbgwxx.cfooov.xyz:46899?flow=xtls-rprx-vision&pbk=nbIa7R7_-I8T24U2C1Q3-wuiQVUmAahxdSo33AjKYiA&security=reality&sid=63bdbd0662a3da&sni=www.apple.com&type=tcp&fp=edge#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D
 vless://f8738084-d3e4-457b-a15e-10d85709681f@schkyydshktbgwxx.cfooov.xyz:46899?flow=xtls-rprx-vision&pbk=nbIa7R7_-I8T24U2C1Q3-wuiQVUmAahxdSo33AjKYiA&security=reality&sid=63bdbd0662a3da&sni=www.apple.com&type=tcp&fp=firefox#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D
 vless://f8738084-d3e4-457b-a15e-10d85709681f@schkyydshktbgwxx.cfooov.xyz:46899?flow=xtls-rprx-vision&pbk=nbIa7R7_-I8T24U2C1Q3-wuiQVUmAahxdSo33AjKYiA&security=reality&sid=63bdbd0662a3da&sni=www.apple.com&type=tcp&fp=ios#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D
+vless://f8738084-d3e4-457b-a15e-10d85709681f@schkyydshktbgwxx.cfooov.xyz:46899?flow=xtls-rprx-vision&pbk=nbIa7R7_-I8T24U2C1Q3-wuiQVUmAahxdSo33AjKYiA&security=reality&sid=63bdbd0662a3da&sni=www.apple.com&type=tcp&fp=qq#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D
 vless://f8738084-d3e4-457b-a15e-10d85709681f@schkyydshktbgwxx.cfooov.xyz:46899?flow=xtls-rprx-vision&pbk=nbIa7R7_-I8T24U2C1Q3-wuiQVUmAahxdSo33AjKYiA&security=reality&sid=63bdbd0662a3da&sni=www.apple.com&type=tcp&fp=safari#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D
