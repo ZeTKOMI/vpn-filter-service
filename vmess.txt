@@ -1,11 +1,13 @@
 ﻿# ============================================
 # VMess Подписка
 # ============================================
-# Дата обновления: 2026-09-04 20:51:39
-# Следующее обновление: 2026-09-04 21:21:39
+# Дата обновления: 2026-09-04 21:22:50
+# Следующее обновление: 2026-09-04 21:52:50
 # Всего конфигов: 1
 # Протоколы: vmess
-# YouTube: 1 | Telegram: 1
-# Описание: Протокол VMess
-# For more info: https://github.com/ZeTKOMI/vpn-filter-service
+# YouTube: 0 | Telegram: 1
+# Статус: Активная
+# ============================================
+# Протокол VMess
+# ============================================
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGI1MGEyMGUtN2ZmNS00ZTcwLTk0OGYtMTdjYzljYTdjMTU0IiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6nwn4eqIEdlcm1hbnkgfCBbKkNJRFJdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
