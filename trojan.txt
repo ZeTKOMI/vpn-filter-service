@@ -1,9 +1,9 @@
 ﻿# profile-title: Trojan Подписка
 # profile-update-interval: 30
-# Date/Time: 2026-09-05 06:22:12
-# Количество: 16
+# Date/Time: 2026-09-05 06:52:55
+# Количество: 18
 # Протоколы: trojan
-# YouTube: 16 | Telegram: 13
+# YouTube: 18 | Telegram: 18
 # Описание: Протокол Trojan
 # For more info: https://github.com/ZeTKOMI/vpn-filter-service
 trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
@@ -22,3 +22,5 @@ trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http%2F1.1&host=o
 trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http%2F1.1&host=op-1.firecone.eu&path=%2Ffemboyporn--femboyporn--femboyporn--femboyporn%2Ffree-trojan-node%2Fonly-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20M%C3%BCnster%20%7C%20%5BBL%5D
 trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http%2F1.1&host=op-1.firecone.eu&path=%2Ffemboyporn--femboyporn--femboyporn--femboyporn%2Ffree-trojan-node%2Fonly-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20M%C3%BCnster%20%7C%20%5BBL%5D
 trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http/1.1&fp=firefox&host=op-1.firecone.eu&path=/femboyporn--femboyporn--femboyporn--femboyporn/free-trojan-node/only-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20M%C3%BCnster%20%7C%20%5BBL%5D
+trojan://v5ncoq10h6398eru@185.204.171.3:2052?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=185.204.171.3&ech=AGD+DQBcAAAgACDIgq78lAbmM6xWVaH9pwc1SqbW1dUYclz%2FJdz0hCwYCQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA0xODUuMjA0LjE3MS4zAAA%3D&type=ws&allowInsecure=0&sni=185.204.171.3&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://v5ncoq10h6398eru@185.204.171.3:2052?path=/&security=tls&alpn=h2,http/1.1&insecure=0&host=185.204.171.3&fp=chrome&ech=AGD+DQBcAAAgACDIgq78lAbmM6xWVaH9pwc1SqbW1dUYclz/Jdz0hCwYCQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA0xODUuMjA0LjE3MS4zAAA=&type=ws&allowInsecure=0&sni=185.204.171.3#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D

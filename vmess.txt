@@ -1,6 +1,6 @@
 ﻿# profile-title: VMess Подписка
 # profile-update-interval: 30
-# Date/Time: 2026-09-05 06:22:12
+# Date/Time: 2026-09-05 06:52:55
 # Количество: 7
 # Протоколы: vmess
 # YouTube: 7 | Telegram: 7
