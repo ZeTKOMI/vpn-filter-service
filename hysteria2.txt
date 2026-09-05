@@ -1,6 +1,6 @@
 ﻿# profile-title: Hysteria2 Подписка
 # profile-update-interval: 30
-# Date/Time: 2026-09-05 20:40:49
+# Date/Time: 2026-09-05 21:11:27
 # Количество: 3
 # Протоколы: hysteria2
 # YouTube: 3 | Telegram: 3
