@@ -1,9 +1,9 @@
 ﻿# profile-title: VLESS Подписка
 # profile-update-interval: 30
-# Date/Time: 2026-09-05 16:35:50
-# Количество: 21
+# Date/Time: 2026-09-05 17:06:21
+# Количество: 7
 # Протоколы: vless
-# YouTube: 21 | Telegram: 14
+# YouTube: 7 | Telegram: 0
 # Описание: Протокол VLESS
 # For more info: https://github.com/ZeTKOMI/vpn-filter-service
 vless://f8738084-d3e4-457b-a15e-10d85709681f@clrpbqwolexxn.cfooov.xyz:24165?flow=xtls-rprx-vision&pbk=GnLh9Cc0jj9BMW81u6stEYKe1xu6pf8DDpXHI9AmvFk&security=reality&sid=545525c503fd5b&sni=addons.mozilla.org&type=tcp&fp=android#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%2C%20Go%20Vap%20%7C%20%5BBL%5D
@@ -13,17 +13,3 @@ vless://f8738084-d3e4-457b-a15e-10d85709681f@clrpbqwolexxn.cfooov.xyz:24165?flow
 vless://f8738084-d3e4-457b-a15e-10d85709681f@clrpbqwolexxn.cfooov.xyz:24165?flow=xtls-rprx-vision&pbk=GnLh9Cc0jj9BMW81u6stEYKe1xu6pf8DDpXHI9AmvFk&security=reality&sid=545525c503fd5b&sni=addons.mozilla.org&type=tcp&fp=ios#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%2C%20Go%20Vap%20%7C%20%5BBL%5D
 vless://f8738084-d3e4-457b-a15e-10d85709681f@clrpbqwolexxn.cfooov.xyz:24165?flow=xtls-rprx-vision&pbk=GnLh9Cc0jj9BMW81u6stEYKe1xu6pf8DDpXHI9AmvFk&security=reality&sid=545525c503fd5b&sni=addons.mozilla.org&type=tcp&fp=qq#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%2C%20Go%20Vap%20%7C%20%5BBL%5D
 vless://f8738084-d3e4-457b-a15e-10d85709681f@clrpbqwolexxn.cfooov.xyz:24165?flow=xtls-rprx-vision&pbk=GnLh9Cc0jj9BMW81u6stEYKe1xu6pf8DDpXHI9AmvFk&security=reality&sid=545525c503fd5b&sni=addons.mozilla.org&type=tcp&fp=safari#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%2C%20Go%20Vap%20%7C%20%5BBL%5D
-vless://f8738084-d3e4-457b-a15e-10d85709681f@schkyydshktbgwxx.cfooov.xyz:46899?flow=xtls-rprx-vision&pbk=nbIa7R7_-I8T24U2C1Q3-wuiQVUmAahxdSo33AjKYiA&security=reality&sid=63bdbd0662a3da&sni=www.apple.com&type=tcp&fp=android#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-vless://f8738084-d3e4-457b-a15e-10d85709681f@schkyydshktbgwxx.cfooov.xyz:46899?flow=xtls-rprx-vision&pbk=nbIa7R7_-I8T24U2C1Q3-wuiQVUmAahxdSo33AjKYiA&security=reality&sid=63bdbd0662a3da&sni=www.apple.com&type=tcp&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-vless://f8738084-d3e4-457b-a15e-10d85709681f@schkyydshktbgwxx.cfooov.xyz:46899?flow=xtls-rprx-vision&pbk=nbIa7R7_-I8T24U2C1Q3-wuiQVUmAahxdSo33AjKYiA&security=reality&sid=63bdbd0662a3da&sni=www.apple.com&type=tcp&fp=edge#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-vless://f8738084-d3e4-457b-a15e-10d85709681f@schkyydshktbgwxx.cfooov.xyz:46899?flow=xtls-rprx-vision&pbk=nbIa7R7_-I8T24U2C1Q3-wuiQVUmAahxdSo33AjKYiA&security=reality&sid=63bdbd0662a3da&sni=www.apple.com&type=tcp&fp=firefox#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-vless://f8738084-d3e4-457b-a15e-10d85709681f@schkyydshktbgwxx.cfooov.xyz:46899?flow=xtls-rprx-vision&pbk=nbIa7R7_-I8T24U2C1Q3-wuiQVUmAahxdSo33AjKYiA&security=reality&sid=63bdbd0662a3da&sni=www.apple.com&type=tcp&fp=ios#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-vless://f8738084-d3e4-457b-a15e-10d85709681f@schkyydshktbgwxx.cfooov.xyz:46899?flow=xtls-rprx-vision&pbk=nbIa7R7_-I8T24U2C1Q3-wuiQVUmAahxdSo33AjKYiA&security=reality&sid=63bdbd0662a3da&sni=www.apple.com&type=tcp&fp=qq#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-vless://f8738084-d3e4-457b-a15e-10d85709681f@schkyydshktbgwxx.cfooov.xyz:46899?flow=xtls-rprx-vision&pbk=nbIa7R7_-I8T24U2C1Q3-wuiQVUmAahxdSo33AjKYiA&security=reality&sid=63bdbd0662a3da&sni=www.apple.com&type=tcp&fp=safari#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-vless://f8738084-d3e4-457b-a15e-10d85709681f@schkyydshktbgwxx.cfooov.xyz:46899?security=reality&flow=xtls-rprx-vision&pbk=nbIa7R7_-I8T24U2C1Q3-wuiQVUmAahxdSo33AjKYiA&sid=63bdbd0662a3da&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F&fp=android#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-vless://f8738084-d3e4-457b-a15e-10d85709681f@schkyydshktbgwxx.cfooov.xyz:46899?security=reality&flow=xtls-rprx-vision&pbk=nbIa7R7_-I8T24U2C1Q3-wuiQVUmAahxdSo33AjKYiA&sid=63bdbd0662a3da&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-vless://f8738084-d3e4-457b-a15e-10d85709681f@schkyydshktbgwxx.cfooov.xyz:46899?security=reality&flow=xtls-rprx-vision&pbk=nbIa7R7_-I8T24U2C1Q3-wuiQVUmAahxdSo33AjKYiA&sid=63bdbd0662a3da&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F&fp=edge#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-vless://f8738084-d3e4-457b-a15e-10d85709681f@schkyydshktbgwxx.cfooov.xyz:46899?security=reality&flow=xtls-rprx-vision&pbk=nbIa7R7_-I8T24U2C1Q3-wuiQVUmAahxdSo33AjKYiA&sid=63bdbd0662a3da&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F&fp=firefox#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-vless://f8738084-d3e4-457b-a15e-10d85709681f@schkyydshktbgwxx.cfooov.xyz:46899?security=reality&flow=xtls-rprx-vision&pbk=nbIa7R7_-I8T24U2C1Q3-wuiQVUmAahxdSo33AjKYiA&sid=63bdbd0662a3da&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F&fp=ios#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-vless://f8738084-d3e4-457b-a15e-10d85709681f@schkyydshktbgwxx.cfooov.xyz:46899?security=reality&flow=xtls-rprx-vision&pbk=nbIa7R7_-I8T24U2C1Q3-wuiQVUmAahxdSo33AjKYiA&sid=63bdbd0662a3da&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F&fp=qq#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-vless://f8738084-d3e4-457b-a15e-10d85709681f@schkyydshktbgwxx.cfooov.xyz:46899?security=reality&flow=xtls-rprx-vision&pbk=nbIa7R7_-I8T24U2C1Q3-wuiQVUmAahxdSo33AjKYiA&sid=63bdbd0662a3da&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F&fp=safari#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
