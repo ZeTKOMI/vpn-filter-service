@@ -1,9 +1,9 @@
 ﻿# profile-title: Trojan Подписка
 # profile-update-interval: 30
-# Date/Time: 2026-09-05 08:55:38
+# Date/Time: 2026-09-05 09:26:22
 # Количество: 16
 # Протоколы: trojan
-# YouTube: 16 | Telegram: 16
+# YouTube: 15 | Telegram: 16
 # Описание: Протокол Trojan
 # For more info: https://github.com/ZeTKOMI/vpn-filter-service
 trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
