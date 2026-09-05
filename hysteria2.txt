@@ -1,9 +1,11 @@
 ﻿# profile-title: Hysteria2 Подписка
 # profile-update-interval: 30
-# Date/Time: 2026-09-05 20:10:01
-# Количество: 1
+# Date/Time: 2026-09-05 20:40:49
+# Количество: 3
 # Протоколы: hysteria2
-# YouTube: 1 | Telegram: 1
+# YouTube: 3 | Telegram: 3
 # Описание: Протокол Hysteria2
 # For more info: https://github.com/ZeTKOMI/vpn-filter-service
 hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@labs.frkn.org:443?insecure=1&sni=labs.frkn.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
+hysteria2://820976357196584b08c8e7b51c985b65@194.87.55.90:443/?alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&insecure=1&pinSHA256=8757a92d1931afc0787f3ed5b1d65da7961f5957666358c751b6335afab88dc2&security=tls&sni=www.kinopoisk.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20www.kinopoisk.ru
+hysteria2://9ef86b2a4534f780f32546236211fc74@108.59.244.158:443/?alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&insecure=1&pinSHA256=6e361bf2ca797f4b1a8e93955852cdac83260f55e6cb9ad6d5a307866b80f670&security=tls&sni=www.vk.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20www.vk.com
