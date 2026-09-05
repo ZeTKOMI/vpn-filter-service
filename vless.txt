@@ -1,17 +1,13 @@
 ﻿# profile-title: VLESS Подписка
 # profile-update-interval: 30
-# Date/Time: 2026-09-05 19:08:46
-# Количество: 9
+# Date/Time: 2026-09-05 19:39:24
+# Количество: 5
 # Протоколы: vless
-# YouTube: 7 | Telegram: 9
+# YouTube: 5 | Telegram: 5
 # Описание: Протокол VLESS
 # For more info: https://github.com/ZeTKOMI/vpn-filter-service
-vless://095d1015-70da-4eff-af6d-962ff619a679@216.167.21.32:40573?flow=xtls-rprx-vision&pbk=aqAR_yPgXQtOazW4nR1Q5RmGIVLQ5TV2ztUWmsjSFVw&security=reality&sid=2012d3de918e0d20&sni=www.tesla.com&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
-vless://095d1015-70da-4eff-af6d-962ff619a679@216.167.21.32:40573?flow=xtls-rprx-vision&pbk=aqAR_yPgXQtOazW4nR1Q5RmGIVLQ5TV2ztUWmsjSFVw&security=reality&sid=2012d3de918e0d20&sni=www.tesla.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
-vless://095d1015-70da-4eff-af6d-962ff619a679@216.167.21.32:40573?flow=xtls-rprx-vision&pbk=aqAR_yPgXQtOazW4nR1Q5RmGIVLQ5TV2ztUWmsjSFVw&security=reality&sid=2012d3de918e0d20&sni=www.tesla.com&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
-vless://095d1015-70da-4eff-af6d-962ff619a679@216.167.21.32:40573?flow=xtls-rprx-vision&pbk=aqAR_yPgXQtOazW4nR1Q5RmGIVLQ5TV2ztUWmsjSFVw&security=reality&sid=2012d3de918e0d20&sni=www.tesla.com&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
-vless://095d1015-70da-4eff-af6d-962ff619a679@216.167.21.32:40573?flow=xtls-rprx-vision&pbk=aqAR_yPgXQtOazW4nR1Q5RmGIVLQ5TV2ztUWmsjSFVw&security=reality&sid=2012d3de918e0d20&sni=www.tesla.com&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
-vless://095d1015-70da-4eff-af6d-962ff619a679@216.167.21.32:40573?flow=xtls-rprx-vision&pbk=aqAR_yPgXQtOazW4nR1Q5RmGIVLQ5TV2ztUWmsjSFVw&security=reality&sid=2012d3de918e0d20&sni=www.tesla.com&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
-vless://095d1015-70da-4eff-af6d-962ff619a679@216.167.21.32:40573?flow=xtls-rprx-vision&pbk=aqAR_yPgXQtOazW4nR1Q5RmGIVLQ5TV2ztUWmsjSFVw&security=reality&sid=2012d3de918e0d20&sni=www.tesla.com&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
-vless://fb67fd37-8d41-43a9-a093-c0b807fc5299@pr-media.pepro.site:14443?type=ws&security=tls&encryption=none&sni=pr-media.pepro.site&path=%2Fws&host=pr-media.pepro.site&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-vless://fb67fd37-8d41-43a9-a093-c0b807fc5299@pr-media.pepro.site:14443?type=ws&security=tls&encryption=none&sni=pr-media.pepro.site&path=%2Fws&host=pr-media.pepro.site&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
+vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yandex.net&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&allowInsecure=1&fp=android#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BSNI-RU%5D%20yandex.net
+vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yandex.net&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&allowInsecure=1&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BSNI-RU%5D%20yandex.net
+vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yandex.net&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&allowInsecure=1&fp=edge#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BSNI-RU%5D%20yandex.net
+vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yandex.net&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&allowInsecure=1&fp=qq#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BSNI-RU%5D%20yandex.net
+vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yandex.net&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&allowInsecure=1&fp=safari#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BSNI-RU%5D%20yandex.net
