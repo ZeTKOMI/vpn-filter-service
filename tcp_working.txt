@@ -1,6 +1,6 @@
 ﻿# profile-title: TCP рабочие
 # profile-update-interval: 30
-# Date/Time: 2026-09-06 03:51:15
+# Date/Time: 2026-09-06 04:21:53
 # Количество: 234
 # Протоколы: hysteria2, trojan, vless, vmess
 # YouTube: 0 | Telegram: 0
@@ -137,7 +137,7 @@ vless://adff89a7-bde7-4614-962a-4068a65a655e@193.124.125.221:443?type=raw&securi
 vless://c12db015-a63c-43e5-a744-6398a90373b5@app.horqen.ir:7164?security=reality&encryption=none&pbk=li2OM0E1BAk9_ArsPezck0VGCVZAy1LuM8p84fLyr10&headerType=none&type=tcp&sni=amp-api-edge.apps.apple.com&sid=57c62818ab48e647&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
 vless://c12db015-a63c-43e5-a744-6398a90373b5@app.horqen.ir:7164?security=reality&encryption=none&pbk=li2OM0E1BAk9_ArsPezck0VGCVZAy1LuM8p84fLyr10&headerType=none&type=tcp&sni=amp-api-edge.apps.apple.com&sid=57c62818ab48e647&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
 vless://c12db015-a63c-43e5-a744-6398a90373b5@app.horqen.ir:7164?security=reality&encryption=none&pbk=li2OM0E1BAk9_ArsPezck0VGCVZAy1LuM8p84fLyr10&headerType=none&type=tcp&sni=amp-api-edge.apps.apple.com&sid=57c62818ab48e647&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
-vless://c12db015-a63c-43e5-a744-6398a90373b5@app.horqen.ir:7164?security=reality&encryption=none&pbk=li2OM0E1BAk9_ArsPezck0VGCVZAy1LuM8p84fLyr10&headerType=none&type=tcp&sni=amp-api-edge.apps.apple.com&sid=57c62818ab48e647&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
+vless://c12db015-a63c-43e5-a744-6398a90373b5@app.horqen.ir:7164?security=reality&encryption=none&pbk=li2OM0E1BAk9_ArsPezck0VGCVZAy1LuM8p84fLyr10&headerType=none&type=tcp&sni=amp-api-edge.apps.apple.com&sid=57c62818ab48e647&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
 vless://c12db015-a63c-43e5-a744-6398a90373b5@app.horqen.ir:7164?security=reality&encryption=none&pbk=li2OM0E1BAk9_ArsPezck0VGCVZAy1LuM8p84fLyr10&headerType=none&type=tcp&sni=amp-api-edge.apps.apple.com&sid=57c62818ab48e647&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
 vless://c12db015-a63c-43e5-a744-6398a90373b5@app.horqen.ir:7164?security=reality&encryption=none&pbk=li2OM0E1BAk9_ArsPezck0VGCVZAy1LuM8p84fLyr10&headerType=none&type=tcp&sni=amp-api-edge.apps.apple.com&sid=57c62818ab48e647&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
 vless://cf1d2ded-2472-483a-f2f2-12c83d1826dd@cl.nigali.ir:2087?encryption=none&type=xhttp&mode=auto&path=%2F%40v2_line&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22length%22%3A%2240-60%22%2C%22packets%22%3A%22tlshello%22%2C%22delay%22%3A%222-5%22%7D%7D%5D%7D&security=tls&sni=cdn-edge-static-assets-delivery-node-a7f2c9e4b1d8.esmahdi9.com&alpn=h2%2Chttp%2F1.1&fragment=40-60%2C2-5%2Ctlshello&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
