@@ -1,9 +1,10 @@
 ﻿# profile-title: VMess Подписка
 # profile-update-interval: 30
-# Date/Time: 2026-09-06 14:36:36
-# Количество: 0
-# Протоколы: Нет данных
-# YouTube: 0 | Telegram: 0
+# Date/Time: 2026-09-06 15:07:25
+# Количество: 2
+# Протоколы: vmess
+# YouTube: 2 | Telegram: 2
 # Описание: Протокол VMess
 # For more info: https://github.com/ZeTKOMI/vpn-filter-service
-
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hs/Cfh7EgVGhlIE5ldGhlcmxhbmRzLCBBbXN0ZXJkYW0gfCDwn4yQIHwgW0JMXSIsImFkZCI6IjIzLjEzNy4yNDkuMTEwIiwicG9ydCI6IjMwMDExIiwiaWQiOiJhN2FlZTY5ZS02ZTAyLTQ3ZDEtODE3Mi03MDE4NjZiYmIyOGMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hs/Cfh7EgVGhlIE5ldGhlcmxhbmRzLCBBbXN0ZXJkYW0gfCDwn4yQIHwgW0JMXSIsImFkZCI6IjIzLjEzNy4yNDkuMTEwIiwicG9ydCI6IjMwMDExIiwiaWQiOiJhN2FlZTY5ZS02ZTAyLTQ3ZDEtODE3Mi03MDE4NjZiYmIyOGMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IjIzLjEzNy4yNDkuMTEwIiwidGxzIjoidGxzIiwic25pIjoiMjMuMTM3LjI0OS4xMTAiLCJwYXRoIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
