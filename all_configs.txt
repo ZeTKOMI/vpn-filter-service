@@ -1,6 +1,6 @@
 ﻿# profile-title: Все конфиги
 # profile-update-interval: 30
-# Date/Time: 2026-09-07 03:25:40
+# Date/Time: 2026-09-07 03:56:25
 # Количество: 355
 # Протоколы: hysteria2, shadowsocks, trojan, vless, vmess
 # YouTube: 0 | Telegram: 0
