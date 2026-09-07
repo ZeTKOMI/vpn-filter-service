@@ -1,9 +1,9 @@
 ﻿# profile-title: Trojan Подписка
 # profile-update-interval: 30
-# Date/Time: 2026-09-07 03:56:25
-# Количество: 21
+# Date/Time: 2026-09-07 04:27:05
+# Количество: 24
 # Протоколы: trojan
-# YouTube: 21 | Telegram: 21
+# YouTube: 23 | Telegram: 24
 # Описание: Протокол Trojan
 # For more info: https://github.com/ZeTKOMI/vpn-filter-service
 trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
@@ -26,4 +26,7 @@ trojan://kakashka13222@5.249.164.28:25615?security=tls&sni=op-1.firecone.eu&type
 trojan://kakashka13222@5.249.164.28:25615?security=tls&sni=op-1.firecone.eu&type=ws&path=%2Ffemboyporn--femboyporn--femboyporn--femboyporn%2Ffree-trojan-node%2Fonly-smux-supported&host=op-1.firecone.eu&allowInsecure=1&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20M%C3%BCnster%20%7C%20%5BBL%5D
 trojan://kakashka13222@5.249.164.28:25615?security=tls&sni=op-1.firecone.eu&type=ws&path=%2Ffemboyporn--femboyporn--femboyporn--femboyporn%2Ffree-trojan-node%2Fonly-smux-supported&host=op-1.firecone.eu&allowInsecure=1&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20M%C3%BCnster%20%7C%20%5BBL%5D
 trojan://kakashka13222@5.249.164.28:25615?security=tls&sni=op-1.firecone.eu&type=ws&path=/femboyporn--femboyporn--femboyporn--femboyporn/free-trojan-node/only-smux-supported&host=op-1.firecone.eu&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20M%C3%BCnster%20%7C%20%5BBL%5D
-trojan://UQfj7bdfjibTjpUHfg72aew51S7fB32g@216.195.211.50:443?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20San%20Jose%20%7C%20%5BBL%5D
+trojan://UQfj7bdfjibTjpUHfg72aew51S7fB32g@216.195.211.50:443?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20San%20Jose%20%7C%20%5BBL%5D
+trojan://UQfj7bdfjibTjpUHfg72aew51S7fB32g@216.195.211.50:443?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20San%20Jose%20%7C%20%5BBL%5D
+trojan://UQfj7bdfjibTjpUHfg72aew51S7fB32g@littoral.appagent.net:443?allowInsecure=1&type=tcp&security=tls&sni=littoral.appagent.net&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20San%20Jose%20%7C%20%5BBL%5D
+trojan://UQfj7bdfjibTjpUHfg72aew51S7fB32g@littoral.appagent.net:443?type=raw&security=tls&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20San%20Jose%20%7C%20%5BBL%5D
