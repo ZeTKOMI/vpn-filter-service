@@ -1,6 +1,6 @@
 ﻿# profile-title: Shadowsocks Подписка
 # profile-update-interval: 30
-# Date/Time: 2026-09-07 05:59:16
+# Date/Time: 2026-09-07 06:29:54
 # Количество: 0
 # Протоколы: Нет данных
 # YouTube: 0 | Telegram: 0
