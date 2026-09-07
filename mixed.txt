@@ -1,11 +1,27 @@
 ﻿# profile-title: MIXED - Смешанная
 # profile-update-interval: 30
-# Date/Time: 2026-09-07 19:16:37
-# Количество: 7
-# Протоколы: vmess
-# YouTube: 7 | Telegram: 7
+# Date/Time: 2026-09-07 19:47:14
+# Количество: 23
+# Протоколы: trojan, vless, vmess
+# YouTube: 23 | Telegram: 21
 # Описание: YouTube или Telegram
 # For more info: https://github.com/ZeTKOMI/vpn-filter-service
+trojan://BxceQaOe@100.42.228.109:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1&fp=firefox#%F0%9F%87%A8%F0%9F%87%B3%20China%2C%20Guilin%20%7C%20%5BBL%5D
+trojan://BxceQaOe@100.42.228.109:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1&fp=ios#%F0%9F%87%A8%F0%9F%87%B3%20China%2C%20Guilin%20%7C%20%5BBL%5D
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
+trojan://UQfj7bdfjibTjpUHfg72aew51S7fB32g@littoral.appagent.net:443?type=raw&security=tls&sni=littoral.appagent.net&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20San%20Jose%20%7C%20%5BBL%5D
+vless://7c417add-468c-4ae7-8d84-cb22445a7591@16-production-a03e.up.railway.app:443?encryption=none&security=tls&type=ws&host=16-production-a03e.up.railway.app&path=%2Fvl-ws&sni=16-production-a03e.up.railway.app&alpn=http%2F1.1&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
+vless://7c417add-468c-4ae7-8d84-cb22445a7591@16-production-a03e.up.railway.app:443?encryption=none&security=tls&type=ws&host=16-production-a03e.up.railway.app&path=%2Fvl-ws&sni=16-production-a03e.up.railway.app&alpn=http%2F1.1&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
+vless://7c417add-468c-4ae7-8d84-cb22445a7591@16-production-a03e.up.railway.app:443?encryption=none&security=tls&type=ws&host=16-production-a03e.up.railway.app&path=%2Fvl-ws&sni=16-production-a03e.up.railway.app&alpn=http%2F1.1&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
+vless://7c417add-468c-4ae7-8d84-cb22445a7591@16-production-a03e.up.railway.app:443?encryption=none&security=tls&type=ws&host=16-production-a03e.up.railway.app&path=%2Fvl-ws&sni=16-production-a03e.up.railway.app&alpn=http%2F1.1&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
+vless://7c417add-468c-4ae7-8d84-cb22445a7591@16-production-a03e.up.railway.app:443?encryption=none&security=tls&type=ws&host=16-production-a03e.up.railway.app&path=%2Fvl-ws&sni=16-production-a03e.up.railway.app&alpn=http%2F1.1&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
+vless://7c417add-468c-4ae7-8d84-cb22445a7591@16-production-a03e.up.railway.app:443?encryption=none&security=tls&type=ws&host=16-production-a03e.up.railway.app&path=%2Fvl-ws&sni=16-production-a03e.up.railway.app&alpn=http%2F1.1&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
+vless://7c417add-468c-4ae7-8d84-cb22445a7591@16-production-a03e.up.railway.app:443?encryption=none&security=tls&type=ws&host=16-production-a03e.up.railway.app&path=%2Fvl-ws&sni=16-production-a03e.up.railway.app&alpn=http%2F1.1&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
+vless://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@nld-0001.api.packet-drop-society.net:443?type=xhttp&security=reality&encryption=none&sni=sstats.vk-portal.net&path=%2Fassets%2Fv2%2Fpkg&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&mode=auto&spx=%2F&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@nld-0001.api.packet-drop-society.net:443?type=xhttp&security=reality&encryption=none&sni=sstats.vk-portal.net&path=%2Fassets%2Fv2%2Fpkg&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&mode=auto&spx=%2F&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogR2VybWFueSB8IFsqQ0lEUl0iLCJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJwb3J0IjoiNDQzIiwiaWQiOiJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwiYWxwbiI6IiIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwidGxzIjoidGxzIiwic25pIjoiIiwiZnAiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogR2VybWFueSB8IFsqQ0lEUl0iLCJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJwb3J0IjoiNDQzIiwiaWQiOiJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwidGxzIjoidGxzIiwic25pIjoiIiwiZnAiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogR2VybWFueSB8IFsqQ0lEUl0iLCJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJwb3J0IjoiNDQzIiwidHlwZSI6Ii0tLSIsImlkIjoiZGI1MGEyMGUtN2ZmNS00ZTcwLTk0OGYtMTdjYzljYTdjMTU0IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJob3N0IjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic2N5IjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
