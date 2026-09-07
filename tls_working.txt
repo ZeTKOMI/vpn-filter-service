@@ -1,7 +1,7 @@
 ﻿# profile-title: TLS рабочие
 # profile-update-interval: 30
-# Date/Time: 2026-09-07 14:09:50
-# Количество: 132
+# Date/Time: 2026-09-07 14:40:37
+# Количество: 125
 # Протоколы: hysteria2, trojan, vless, vmess
 # YouTube: 0 | Telegram: 0
 # Описание: TLS соединение
@@ -28,7 +28,6 @@ trojan://50414e45-4c5f-5a45-5553-565221666bd1@104.16.121.254:443?security=tls&sn
 trojan://50414e45-4c5f-5a45-5553-565221666bd1@172.67.238.241:443?security=tls&sni=mczrh5e3u5ps.shoameny.workers.dev&type=ws&host=mczrh5e3u5ps.shoameny.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F565221666bd1%2Floc-5&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
 trojan://50414e45-4c5f-5a45-5553-565221666bd1@172.67.238.241:443?security=tls&sni=mczrh5e3u5ps.shoameny.workers.dev&type=ws&host=mczrh5e3u5ps.shoameny.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F565221666bd1%2Floc-5&fp=unsafe#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
 trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
-trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
 trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
 trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
 trojan://n9c6f0usjhj6kqbq@104.21.65.43:2087?alpn=h2&host=uwu.dianaw.cc.cd&path=%2F%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net&security=tls&sni=uwu.dianaw.cc.cd&type=ws&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
@@ -112,12 +111,6 @@ vless://a88e61a0-2b38-f6df-c5c7-d20600000000@netlivpn5002.whwbbb.workers.dev:443
 vless://a88e61a0-2b38-f6df-c5c7-d20600000000@netlivpn5002.whwbbb.workers.dev:443?type=ws&security=tls&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
 vless://a88e61a0-2b38-f6df-c5c7-d20600000000@www.speedtest.net:443?encryption=none&type=ws&host=netlivpn5002.whwbbb.workers.dev&path=%2FNetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN&security=tls&fp=chrome&sni=netlivpn5002.whwbbb.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
 vless://af19ce98-b58b-43ef-9f0d-2ae6343e28fe@104.21.5.75:2096?&security=tls&fp=chrome&packet-encoding=xudp&sni=blue-disk-1124.sawmansafi.workers.dev&type=ws&headerType=none&host=blue-disk-1124.sawmansafi.workers.dev&path=%2FeyJqdW5rIjoiS2FGSWxzNmpiUSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ%3D%3D#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
-vless://b7797db2-27fa-4127-a9f7-18ae181a1cb7@79.174.92.85:6443?allowInsecure=1&flow=&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&security=reality&serviceName=grpc&sid=bad5722c72a0&sni=iv.kommersant.ru&type=grpc&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://b7797db2-27fa-4127-a9f7-18ae181a1cb7@79.174.92.85:6443?allowInsecure=1&flow=&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&security=reality&serviceName=grpc&sid=bad5722c72a0&sni=iv.kommersant.ru&type=grpc&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://b7797db2-27fa-4127-a9f7-18ae181a1cb7@79.174.92.85:6443?encryption=none&fp=edge&mode=gun&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&security=reality&serviceName=grpc&sid=bad5722c72a0&sni=iv.kommersant.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://b7797db2-27fa-4127-a9f7-18ae181a1cb7@79.174.92.85:6443?encryption=none&fp=qq&mode=gun&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&security=reality&serviceName=grpc&sid=bad5722c72a0&sni=iv.kommersant.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://b7797db2-27fa-4127-a9f7-18ae181a1cb7@79.174.92.85:6443?encryption=none&fp=safari&mode=gun&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&security=reality&serviceName=grpc&sid=bad5722c72a0&sni=iv.kommersant.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://b7797db2-27fa-4127-a9f7-18ae181a1cb7@79.174.92.85:6443?type=grpc&security=reality&fp=chrome&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&sid=bad5722c72a0&sni=iv.kommersant.ru&mode=gun&serviceName=grpc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://b8875d59-7568-4041-829a-cc6c82b70022@test.ghwhdr51.workers.dev:443?encryption=none&fp=chrome&host=test.ghwhdr51.workers.dev&path=ws&security=tls&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
 vless://b8875d59-7568-4041-829a-cc6c82b70022@test.ghwhdr51.workers.dev:443?encryption=none&fp=chrome&security=tls&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
 vless://b8875d59-7568-4041-829a-cc6c82b70022@test.ghwhdr51.workers.dev:443?encryption=none&security=tls&sni=test.ghwhdr51.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=test.ghwhdr51.workers.dev&path=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D

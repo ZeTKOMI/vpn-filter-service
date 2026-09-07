@@ -1,9 +1,9 @@
 ﻿# profile-title: VLESS Подписка
 # profile-update-interval: 30
-# Date/Time: 2026-09-07 14:09:50
-# Количество: 25
+# Date/Time: 2026-09-07 14:40:36
+# Количество: 19
 # Протоколы: vless
-# YouTube: 18 | Telegram: 25
+# YouTube: 12 | Telegram: 19
 # Описание: Протокол VLESS
 # For more info: https://github.com/ZeTKOMI/vpn-filter-service
 vless://0c655bc1-42d9-4f92-bf60-aec93087ea54@acckrb.2000601.xyz:443?encryption=none&security=reality&sni=www.amd.com&fp=chrome&pbk=vdiZEsZ2q2IJl_lTh-YZMzENl-vdKkCu-XJ1SGwtZGM&sid=65d8a3fe3ab7ddf5&spx=%2Fb7df5a06f36806d&type=xhttp&path=%2F198357923e5ba605&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%7D#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
@@ -25,9 +25,3 @@ vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@brightharbor.download:443?encryptio
 vless://93fa1107-b1b4-4a45-b4e7-890f7dbac7b3@serr-arnrr-2.blook.network:443?type=grpc&security=reality&fp=firefox&pbk=2neBenQDielZoPvaNGMsjWEHOqHRKvSEw0e1NapEmAw&sid=5227&sni=serr-arnrr-2.blook.network&serviceName=grpc#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://a747c516-34bd-41b8-8590-a9d1edb79e95@164.90.176.31:2083?encryption=none&type=ws&security=tls&path=%2F&host=summer-hall-8b23.asddsaasan.workers.dev&sni=summer-hall-8b23.asddsaasan.workers.dev&fp=random&allowInsecure=0#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%B6%20%7C%20%5BBL%5D
 vless://a747c516-34bd-41b8-8590-a9d1edb79e95@164.90.176.31:8443?security=tls&sni=summer-hall-8b23.asddsaasan.workers.dev&type=ws&host=summer-hall-8b23.asddsaasan.workers.dev&path=/&fp=random#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%B6%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
-vless://b7797db2-27fa-4127-a9f7-18ae181a1cb7@79.174.92.85:6443?allowInsecure=1&flow=&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&security=reality&serviceName=grpc&sid=bad5722c72a0&sni=iv.kommersant.ru&type=grpc&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://b7797db2-27fa-4127-a9f7-18ae181a1cb7@79.174.92.85:6443?allowInsecure=1&flow=&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&security=reality&serviceName=grpc&sid=bad5722c72a0&sni=iv.kommersant.ru&type=grpc&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://b7797db2-27fa-4127-a9f7-18ae181a1cb7@79.174.92.85:6443?encryption=none&fp=edge&mode=gun&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&security=reality&serviceName=grpc&sid=bad5722c72a0&sni=iv.kommersant.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://b7797db2-27fa-4127-a9f7-18ae181a1cb7@79.174.92.85:6443?encryption=none&fp=qq&mode=gun&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&security=reality&serviceName=grpc&sid=bad5722c72a0&sni=iv.kommersant.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://b7797db2-27fa-4127-a9f7-18ae181a1cb7@79.174.92.85:6443?encryption=none&fp=safari&mode=gun&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&security=reality&serviceName=grpc&sid=bad5722c72a0&sni=iv.kommersant.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://b7797db2-27fa-4127-a9f7-18ae181a1cb7@79.174.92.85:6443?type=grpc&security=reality&fp=chrome&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&sid=bad5722c72a0&sni=iv.kommersant.ru&mode=gun&serviceName=grpc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
