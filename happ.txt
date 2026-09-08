@@ -1,9 +1,9 @@
 ﻿# profile-title: HAPP - YouTube + Telegram
 # profile-update-interval: 30
-# Date/Time: 2026-09-08 15:45:13
-# Количество: 27
+# Date/Time: 2026-09-08 16:15:49
+# Количество: 29
 # Протоколы: trojan, vless, vmess
-# YouTube: 27 | Telegram: 27
+# YouTube: 29 | Telegram: 29
 # Описание: YouTube и Telegram
 # For more info: https://github.com/ZeTKOMI/vpn-filter-service
 trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
@@ -31,5 +31,7 @@ vless://49b5c5d1-8fb0-4fd2-8129-01bd2178e8d1@thewoodflooringhub.co.uk:443?ech=cl
 vless://49b5c5d1-8fb0-4fd2-8129-01bd2178e8d1@thewoodflooringhub.co.uk:443?ech=cloudflare-ech.com+https%3A%2F%2Fdns.alidns.com%2Fdns-query&host=gy-cffc4-node-31z7yxejlog9qfu0.lancelot.dpdns.org&path=%2Fmembers%2Findex%2Fproxyip%3DProxyIP.KR.CMLiussss.net%3Fed%3D2560&security=tls&sni=gy-cffc4-node-31z7yxejlog9qfu0.lancelot.dpdns.org&type=ws&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
 vless://49b5c5d1-8fb0-4fd2-8129-01bd2178e8d1@thewoodflooringhub.co.uk:443?ech=cloudflare-ech.com+https%3A%2F%2Fdns.alidns.com%2Fdns-query&host=gy-cffc4-node-31z7yxejlog9qfu0.lancelot.dpdns.org&path=%2Fmembers%2Findex%2Fproxyip%3DProxyIP.KR.CMLiussss.net%3Fed%3D2560&security=tls&sni=gy-cffc4-node-31z7yxejlog9qfu0.lancelot.dpdns.org&type=ws&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
 vless://49b5c5d1-8fb0-4fd2-8129-01bd2178e8d1@thewoodflooringhub.co.uk:443?ech=cloudflare-ech.com+https%3A%2F%2Fdns.alidns.com%2Fdns-query&host=gy-cffc4-node-31z7yxejlog9qfu0.lancelot.dpdns.org&path=%2Fmembers%2Findex%2Fproxyip%3DProxyIP.KR.CMLiussss.net%3Fed%3D2560&security=tls&sni=gy-cffc4-node-31z7yxejlog9qfu0.lancelot.dpdns.org&type=ws&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.131.255.31:9891?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&encryption=none&fp=firefox#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%2C%20Prague%20%7C%20%5BBL%5D
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.131.255.31:9891?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&encryption=none&fp=qq#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%2C%20Prague%20%7C%20%5BBL%5D
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogR2VybWFueSB8IFsqQ0lEUl0iLCJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJwb3J0IjoiNDQzIiwiaWQiOiJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwiaWQiOiJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqfCfh6ogR2VybWFueSB8IFsqQ0lEUl0iLCJzY3kiOiJhdXRvIiwic25pIjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
