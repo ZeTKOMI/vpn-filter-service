@@ -1,6 +1,6 @@
 ﻿# profile-title: Trojan Подписка
 # profile-update-interval: 30
-# Date/Time: 2026-09-09 00:26:33
+# Date/Time: 2026-09-09 00:57:21
 # Количество: 13
 # Протоколы: trojan
 # YouTube: 13 | Telegram: 13
