@@ -1,12 +1,11 @@
 ﻿# profile-title: VLESS Подписка
 # profile-update-interval: 30
-# Date/Time: 2026-09-09 20:24:45
-# Количество: 85
+# Date/Time: 2026-09-09 20:55:32
+# Количество: 82
 # Протоколы: vless
-# YouTube: 84 | Telegram: 84
+# YouTube: 82 | Telegram: 81
 # Описание: Протокол VLESS
 # For more info: https://github.com/ZeTKOMI/vpn-filter-service
-vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=oh1.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=android#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=oh1.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=oh1.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=oh1.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
@@ -36,12 +35,10 @@ vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=oh6.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd10.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd10.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd10.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd10.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd10.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=ios#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd10.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd10.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd11.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd11.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd11.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd11.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D

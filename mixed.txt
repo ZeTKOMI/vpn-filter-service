@@ -1,14 +1,16 @@
 ﻿# profile-title: MIXED - Смешанная
 # profile-update-interval: 30
-# Date/Time: 2026-09-09 20:24:45
-# Количество: 90
+# Date/Time: 2026-09-09 20:55:32
+# Количество: 89
 # Протоколы: trojan, vless, vmess
-# YouTube: 88 | Telegram: 89
+# YouTube: 88 | Telegram: 88
 # Описание: YouTube или Telegram
 # For more info: https://github.com/ZeTKOMI/vpn-filter-service
+trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?security=tls&sni=taobao.com&type=tcp&fp=chrome&udp=1&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
 trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?security=tls&sni=taobao.com&type=tcp&udp=1&allowInsecure=1&fp=android#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
 trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?security=tls&sni=taobao.com&type=tcp&udp=1&allowInsecure=1&fp=edge#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=oh1.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=android#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=oh1.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=oh1.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=oh1.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
@@ -38,12 +40,10 @@ vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=oh6.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd10.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd10.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd10.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd10.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd10.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=ios#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd10.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd10.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd11.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd11.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd11.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://81145488-5fce-49e9-a3da-c4dd353180e7@199.232.96.15:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd11.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
@@ -94,5 +94,4 @@ vless://ba1df575-79a9-4159-ba6e-c9233595c753@72.56.239.190:443?type=tcp&headerTy
 vless://ba1df575-79a9-4159-ba6e-c9233595c753@72.56.239.190:443?type=tcp&headerType=none&security=tls&encryption=none&sni=fast99.screw.page&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
 vless://ba1df575-79a9-4159-ba6e-c9233595c753@72.56.239.190:443?type=tcp&headerType=none&security=tls&encryption=none&sni=fast99.screw.page&flow=xtls-rprx-vision&fp=safari#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogR2VybWFueSB8IFsqQ0lEUl0iLCJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJwb3J0IjoiNDQzIiwiaWQiOiJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSG9uZyBLb25nLCBIb25nIEtvbmcgfCBbQkxdIiwiYWRkIjoicXRrZHI4anhlM3dlZnhqbS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwiaWQiOiJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqfCfh6ogR2VybWFueSB8IFsqQ0lEUl0iLCJzY3kiOiJhdXRvIiwic25pIjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
