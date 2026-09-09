@@ -1,13 +1,25 @@
 ﻿# profile-title: MIXED - Смешанная
 # profile-update-interval: 30
-# Date/Time: 2026-09-09 13:45:47
-# Количество: 5
+# Date/Time: 2026-09-09 14:16:23
+# Количество: 17
 # Протоколы: trojan, vless
-# YouTube: 2 | Telegram: 5
+# YouTube: 17 | Telegram: 11
 # Описание: YouTube или Telegram
 # For more info: https://github.com/ZeTKOMI/vpn-filter-service
-trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
-trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
-trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
-vless://88ce17fc-7c6c-43a7-98a4-33fb59697b17@95.163.214.43:443?__rand=6bffbdde&burmalda=f41a69ee&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8Faab9d4&host=vk.com&mode=stream-one&path=%2Fapi%2Fv1%2Fe0163615&pbk=VdG4ntV15FfNWV4rvSny2mvOTSXfOUVKHNC0dOyXY2s&security=reality&sid=864fbb122f15b43d&sni=ok.ru&spx=%2F&type=xhttp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
-vless://88ce17fc-7c6c-43a7-98a4-33fb59697b17@95.163.214.43:443?__rand=6bffbdde&burmalda=f41a69ee&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8Faab9d4&host=vk.com&mode=stream-one&path=%2Fapi%2Fv1%2Fe0163615&pbk=VdG4ntV15FfNWV4rvSny2mvOTSXfOUVKHNC0dOyXY2s&security=reality&sid=864fbb122f15b43d&sni=ok.ru&spx=%2F&type=xhttp&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
+trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?security=tls&sni=taobao.com&type=tcp&udp=1&allowInsecure=1&fp=android#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
+trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?security=tls&sni=taobao.com&type=tcp&udp=1&allowInsecure=1&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
+trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?security=tls&sni=taobao.com&type=tcp&udp=1&allowInsecure=1&fp=edge#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
+trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?security=tls&sni=taobao.com&type=tcp&udp=1&allowInsecure=1&fp=firefox#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
+vless://6072ca43-2715-49a4-a9a2-a56be73ecfb0@195.216.168.158:443?encryption=none&type=grpc&serviceName=MediaService&mode=multi&security=reality&sni=google.com&pbk=JgAozyY8uYe10LDFxsY5KL6C54nPrFezT6lK5Rfvrjk&sid=3faf2070&fp=android#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Estepona%20%7C%20%5BBL%5D
+vless://6072ca43-2715-49a4-a9a2-a56be73ecfb0@195.216.168.158:443?encryption=none&type=grpc&serviceName=MediaService&mode=multi&security=reality&sni=google.com&pbk=JgAozyY8uYe10LDFxsY5KL6C54nPrFezT6lK5Rfvrjk&sid=3faf2070&fp=chrome#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Estepona%20%7C%20%5BBL%5D
+vless://6072ca43-2715-49a4-a9a2-a56be73ecfb0@195.216.168.158:443?encryption=none&type=grpc&serviceName=MediaService&mode=multi&security=reality&sni=google.com&pbk=JgAozyY8uYe10LDFxsY5KL6C54nPrFezT6lK5Rfvrjk&sid=3faf2070&fp=edge#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Estepona%20%7C%20%5BBL%5D
+vless://6072ca43-2715-49a4-a9a2-a56be73ecfb0@195.216.168.158:443?encryption=none&type=grpc&serviceName=MediaService&mode=multi&security=reality&sni=google.com&pbk=JgAozyY8uYe10LDFxsY5KL6C54nPrFezT6lK5Rfvrjk&sid=3faf2070&fp=firefox#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Estepona%20%7C%20%5BBL%5D
+vless://6072ca43-2715-49a4-a9a2-a56be73ecfb0@195.216.168.158:443?encryption=none&type=grpc&serviceName=MediaService&mode=multi&security=reality&sni=google.com&pbk=JgAozyY8uYe10LDFxsY5KL6C54nPrFezT6lK5Rfvrjk&sid=3faf2070&fp=ios#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Estepona%20%7C%20%5BBL%5D
+vless://6072ca43-2715-49a4-a9a2-a56be73ecfb0@195.216.168.158:443?encryption=none&type=grpc&serviceName=MediaService&mode=multi&security=reality&sni=google.com&pbk=JgAozyY8uYe10LDFxsY5KL6C54nPrFezT6lK5Rfvrjk&sid=3faf2070&fp=safari#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Estepona%20%7C%20%5BBL%5D
+vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?encryption=none&type=tcp&security=reality&sni=localhost&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=android#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?encryption=none&type=tcp&security=reality&sni=localhost&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?encryption=none&type=tcp&security=reality&sni=localhost&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=edge#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?encryption=none&type=tcp&security=reality&sni=localhost&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=firefox#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?encryption=none&type=tcp&security=reality&sni=localhost&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=ios#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?encryption=none&type=tcp&security=reality&sni=localhost&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=qq#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?encryption=none&type=tcp&security=reality&sni=localhost&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=safari#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
