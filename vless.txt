@@ -1,11 +1,13 @@
 ﻿# profile-title: VLESS Подписка
 # profile-update-interval: 30
-# Date/Time: 2026-09-10 08:40:41
+# Date/Time: 2026-09-10 09:11:26
 # Количество: 54
 # Протоколы: vless
-# YouTube: 43 | Telegram: 54
+# YouTube: 41 | Telegram: 51
 # Описание: Протокол VLESS
 # For more info: https://github.com/ZeTKOMI/vpn-filter-service
+vless://00f53158-c278-4d64-ae98-a60c5fe09ffa@107.189.25.18:443?encryption=none&type=raw&security=reality&flow=xtls-rprx-vision&sni=cdn.dodostatic.net&pbk=9dw9Bova6GFJHi8taK2JK3EnSC8MiAgYh9oY4Dog73w&sid=bb54c0d4985504cd&fp=chrome#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%2C%20Riga%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://00f53158-c278-4d64-ae98-a60c5fe09ffa@107.189.25.18:443?encryption=none&type=raw&security=reality&flow=xtls-rprx-vision&sni=cdn.dodostatic.net&pbk=9dw9Bova6GFJHi8taK2JK3EnSC8MiAgYh9oY4Dog73w&sid=bb54c0d4985504cd&fp=firefox#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%2C%20Riga%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://8db3a1ab-f739-41f2-ae46-4fb72d9134f8@tur.zavqeron.ir:8443?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&pbk=9PxwbCMskvn1WA7ieKvvgJ3tvYU-u0r9wms__WU8URU&sid=0bd70fc8a4034691&fp=android#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://8db3a1ab-f739-41f2-ae46-4fb72d9134f8@tur.zavqeron.ir:8443?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&pbk=9PxwbCMskvn1WA7ieKvvgJ3tvYU-u0r9wms__WU8URU&sid=0bd70fc8a4034691&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://8db3a1ab-f739-41f2-ae46-4fb72d9134f8@tur.zavqeron.ir:8443?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&pbk=9PxwbCMskvn1WA7ieKvvgJ3tvYU-u0r9wms__WU8URU&sid=0bd70fc8a4034691&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
@@ -19,7 +21,6 @@ vless://9589fd16-42a6-4be3-ae82-25c9c4da812c@104.194.149.96:443?type=raw&securit
 vless://9589fd16-42a6-4be3-ae82-25c9c4da812c@104.194.149.96:443?type=raw&security=reality&encryption=none&sni=cdn.dodostatic.net&pbk=_0xBrxkSJE2Qf3MViR2inKlffGEqYfx2lztViv5-9X0&sid=406a5c8f9fed4e07&flow=xtls-rprx-vision&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://9589fd16-42a6-4be3-ae82-25c9c4da812c@104.194.149.96:443?type=raw&security=reality&encryption=none&sni=cdn.dodostatic.net&pbk=_0xBrxkSJE2Qf3MViR2inKlffGEqYfx2lztViv5-9X0&sid=406a5c8f9fed4e07&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://9589fd16-42a6-4be3-ae82-25c9c4da812c@104.194.149.96:443?type=raw&security=reality&encryption=none&sni=cdn.dodostatic.net&pbk=_0xBrxkSJE2Qf3MViR2inKlffGEqYfx2lztViv5-9X0&sid=406a5c8f9fed4e07&flow=xtls-rprx-vision&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://a1394087-75fb-489d-bdd0-0c9a70884e68@107.189.27.184:443?encryption=none&type=raw&security=reality&flow=xtls-rprx-vision&sni=cdn.dodostatic.net&pbk=T9qoEHG1hmfKvnhVytiNuFnAbrNLdYLFjpJJJZhJOzY&sid=02234b3f83a8251c&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Berlin%20%7C%20%5BBL%5D
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@abvro.moritech.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=abvro.moritech.net&alpn=h2&flow=xtls-rprx-vision&fp=android#%F0%9F%87%B7%F0%9F%87%B4%20Romania%2C%20Bucharest%20%7C%20%5BBL%5D
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@abvro.moritech.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=abvro.moritech.net&alpn=h2&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B7%F0%9F%87%B4%20Romania%2C%20Bucharest%20%7C%20%5BBL%5D
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@abvro.moritech.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=abvro.moritech.net&alpn=h2&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B7%F0%9F%87%B4%20Romania%2C%20Bucharest%20%7C%20%5BBL%5D
@@ -35,8 +36,6 @@ vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@abvro1.moritech.net:443?type=tcp&he
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@abvro1.moritech.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=abvro1.moritech.net&alpn=h2&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%B7%F0%9F%87%B4%20Romania%2C%20Bucharest%20%7C%20%5BBL%5D
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@abvro1.moritech.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=abvro1.moritech.net&alpn=h2&flow=xtls-rprx-vision&fp=safari#%F0%9F%87%B7%F0%9F%87%B4%20Romania%2C%20Bucharest%20%7C%20%5BBL%5D
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@abvro2.moritech.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=abvro2.moritech.net&alpn=h2&flow=xtls-rprx-vision&fp=android#%F0%9F%87%B7%F0%9F%87%B4%20Romania%2C%20Bucharest%20%7C%20%5BBL%5D
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@abvro2.moritech.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=abvro2.moritech.net&alpn=h2&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B7%F0%9F%87%B4%20Romania%2C%20Bucharest%20%7C%20%5BBL%5D
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@abvro2.moritech.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=abvro2.moritech.net&alpn=h2&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B7%F0%9F%87%B4%20Romania%2C%20Bucharest%20%7C%20%5BBL%5D
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@abvro2.moritech.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=abvro2.moritech.net&alpn=h2&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B7%F0%9F%87%B4%20Romania%2C%20Bucharest%20%7C%20%5BBL%5D
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@abvro2.moritech.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=abvro2.moritech.net&alpn=h2&flow=xtls-rprx-vision&fp=ios#%F0%9F%87%B7%F0%9F%87%B4%20Romania%2C%20Bucharest%20%7C%20%5BBL%5D
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@abvro2.moritech.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=abvro2.moritech.net&alpn=h2&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%B7%F0%9F%87%B4%20Romania%2C%20Bucharest%20%7C%20%5BBL%5D
@@ -51,7 +50,8 @@ vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-new.moritech.net:443?type=tcp&he
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@viper-24.moriarty-web.com:443?type=tcp&headerType=none&security=tls&encryption=none&sni=viper-24.moriarty-web.com&alpn=h2&flow=xtls-rprx-vision&fp=android#%F0%9F%87%B3%F0%9F%87%B4%20Norway%2C%20Oslo%20%7C%20%5BBL%5D
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@viper-24.moriarty-web.com:443?type=tcp&headerType=none&security=tls&encryption=none&sni=viper-24.moriarty-web.com&alpn=h2&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B3%F0%9F%87%B4%20Norway%2C%20Oslo%20%7C%20%5BBL%5D
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@viper-24.moriarty-web.com:443?type=tcp&headerType=none&security=tls&encryption=none&sni=viper-24.moriarty-web.com&alpn=h2&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B3%F0%9F%87%B4%20Norway%2C%20Oslo%20%7C%20%5BBL%5D
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@viper-24.moriarty-web.com:443?type=tcp&headerType=none&security=tls&encryption=none&sni=viper-24.moriarty-web.com&alpn=h2&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B3%F0%9F%87%B4%20Norway%2C%20Oslo%20%7C%20%5BBL%5D
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@viper-24.moriarty-web.com:443?type=tcp&headerType=none&security=tls&encryption=none&sni=viper-24.moriarty-web.com&alpn=h2&flow=xtls-rprx-vision&fp=ios#%F0%9F%87%B3%F0%9F%87%B4%20Norway%2C%20Oslo%20%7C%20%5BBL%5D
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@viper-24.moriarty-web.com:443?type=tcp&headerType=none&security=tls&encryption=none&sni=viper-24.moriarty-web.com&alpn=h2&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%B3%F0%9F%87%B4%20Norway%2C%20Oslo%20%7C%20%5BBL%5D
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@viper-5.moriarty-web.com:443?type=tcp&headerType=none&security=tls&encryption=none&sni=viper-5.moriarty-web.com&alpn=h2&flow=xtls-rprx-vision&fp=android#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%7C%20%5BBL%5D
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@viper-5.moriarty-web.com:443?type=tcp&headerType=none&security=tls&encryption=none&sni=viper-5.moriarty-web.com&alpn=h2&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%7C%20%5BBL%5D
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@viper-5.moriarty-web.com:443?type=tcp&headerType=none&security=tls&encryption=none&sni=viper-5.moriarty-web.com&alpn=h2&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%7C%20%5BBL%5D
