@@ -1,7 +1,7 @@
 ﻿# profile-title: Все конфиги
 # profile-update-interval: 30
-# Date/Time: 2026-09-10 13:16:39
-# Количество: 129
+# Date/Time: 2026-09-10 13:47:17
+# Количество: 130
 # Протоколы: hysteria2, trojan, vless, vmess
 # YouTube: 0 | Telegram: 0
 # Описание: Полный список
@@ -49,6 +49,7 @@ trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?security=t
 trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?security=tls&sni=taobao.com&type=tcp&udp=1&allowInsecure=1&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
 trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?security=tls&sni=taobao.com&type=tcp&udp=1&allowInsecure=1&fp=edge#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
 trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?security=tls&sni=taobao.com&type=tcp&udp=1&allowInsecure=1&fp=firefox#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
+vless://1560c0b2-3cb8-45a3-988b-7103b031a815@188.114.97.6:8080?host=delicate-wood-49a8.214-451.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net%2B&security=none&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
 vless://8316ca95-b32f-49a5-9de6-7e43aa6b710a@185.218.16.145:443?encryption=none&flow=xtls-rprx-vision&pbk=vOdx2m5CVtfx91_7Svh4lWxqE7FtZfGgHv3c1OkLDVA&security=reality&sid=257815dcb67a3ba1&sni=america.shoptwo.xyz&type=tcp&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Fremont%20%7C%20%5BBL%5D
 vless://8316ca95-b32f-49a5-9de6-7e43aa6b710a@185.218.16.145:443?encryption=none&flow=xtls-rprx-vision&pbk=vOdx2m5CVtfx91_7Svh4lWxqE7FtZfGgHv3c1OkLDVA&security=reality&sid=257815dcb67a3ba1&sni=america.shoptwo.xyz&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Fremont%20%7C%20%5BBL%5D
 vless://8316ca95-b32f-49a5-9de6-7e43aa6b710a@185.218.16.145:443?encryption=none&flow=xtls-rprx-vision&pbk=vOdx2m5CVtfx91_7Svh4lWxqE7FtZfGgHv3c1OkLDVA&security=reality&sid=257815dcb67a3ba1&sni=america.shoptwo.xyz&type=tcp&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Fremont%20%7C%20%5BBL%5D
