@@ -1,9 +1,9 @@
 ﻿# profile-title: Trojan Подписка
 # profile-update-interval: 30
-# Date/Time: 2026-09-10 07:08:25
+# Date/Time: 2026-09-10 07:39:12
 # Количество: 20
 # Протоколы: trojan
-# YouTube: 19 | Telegram: 18
+# YouTube: 20 | Telegram: 20
 # Описание: Протокол Trojan
 # For more info: https://github.com/ZeTKOMI/vpn-filter-service
 trojan://BxceQaOe@100.42.228.109:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1&fp=edge#%F0%9F%87%A8%F0%9F%87%B3%20China%2C%20Guilin%20%7C%20%5BBL%5D
