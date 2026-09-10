@@ -1,9 +1,9 @@
 ﻿# profile-title: VLESS Подписка
 # profile-update-interval: 30
-# Date/Time: 2026-09-10 11:44:52
+# Date/Time: 2026-09-10 12:15:26
 # Количество: 7
 # Протоколы: vless
-# YouTube: 7 | Telegram: 7
+# YouTube: 5 | Telegram: 7
 # Описание: Протокол VLESS
 # For more info: https://github.com/ZeTKOMI/vpn-filter-service
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@viper-7.moriarty-web.com:443?type=tcp&headerType=none&security=tls&encryption=none&sni=viper-7.moriarty-web.com&alpn=h2&flow=xtls-rprx-vision&fp=android#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%7C%20%5BBL%5D
