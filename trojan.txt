@@ -1,12 +1,15 @@
 ﻿# profile-title: Trojan Подписка
 # profile-update-interval: 30
-# Date/Time: 2026-09-11 10:17:33
-# Количество: 14
+# Date/Time: 2026-09-11 10:48:23
+# Количество: 17
 # Протоколы: trojan
-# YouTube: 12 | Telegram: 14
+# YouTube: 12 | Telegram: 17
 # Описание: Протокол Trojan
 # For more info: https://github.com/ZeTKOMI/vpn-filter-service
-trojan://4e7c56ed-68dc-358d-8b4b-fe5c2e74632d@62.234.223.235:44052?security=tls&sni=baidu.com&insecure=1&allowInsecure=1#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Seoul%20%28Toegye-ro%29%20%7C%20%5BBL%5D
+trojan://4e7c56ed-68dc-358d-8b4b-fe5c2e74632d@62.234.223.235:44009?security=tls&sni=baidu.com&insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://4e7c56ed-68dc-358d-8b4b-fe5c2e74632d@62.234.223.235:44010?security=tls&sni=baidu.com&insecure=1&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://4e7c56ed-68dc-358d-8b4b-fe5c2e74632d@62.234.223.235:44027?security=tls&sni=baidu.com&insecure=1&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taoyuan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://4e7c56ed-68dc-358d-8b4b-fe5c2e74632d@62.234.223.235:44053?security=tls&sni=baidu.com&insecure=1&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Slough%20%7C%20%5BBL%5D
 trojan://4e7c56ed-68dc-358d-8b4b-fe5c2e74632d@62.234.223.235:44063?security=tls&sni=baidu.com&insecure=1&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%BA%20Australia%2C%20Alexandria%20%7C%20%5BBL%5D
 trojan://BxceQaOe@100.42.228.109:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1&fp=edge#%F0%9F%87%A8%F0%9F%87%B3%20China%2C%20Guilin%20%7C%20%5BBL%5D
 trojan://BxceQaOe@100.42.228.109:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1&fp=firefox#%F0%9F%87%A8%F0%9F%87%B3%20China%2C%20Guilin%20%7C%20%5BBL%5D
