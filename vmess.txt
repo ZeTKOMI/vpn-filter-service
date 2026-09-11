@@ -1,6 +1,6 @@
 ﻿# profile-title: VMess Подписка
 # profile-update-interval: 30
-# Date/Time: 2026-09-11 18:28:15
+# Date/Time: 2026-09-11 18:58:55
 # Количество: 0
 # Протоколы: Нет данных
 # YouTube: 0 | Telegram: 0
