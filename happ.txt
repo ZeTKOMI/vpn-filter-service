@@ -1,9 +1,9 @@
 ﻿# profile-title: HAPP - YouTube + Telegram
 # profile-update-interval: 30
-# Date/Time: 2026-09-12 02:40:51
-# Количество: 94
+# Date/Time: 2026-09-12 03:11:42
+# Количество: 84
 # Протоколы: trojan, vless
-# YouTube: 94 | Telegram: 94
+# YouTube: 84 | Telegram: 84
 # Описание: YouTube и Telegram
 # For more info: https://github.com/ZeTKOMI/vpn-filter-service
 trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
@@ -64,16 +64,6 @@ vless://02722550-1915-4629-a653-cbe95e594f70@nid3ch.betust.net:443?security=real
 vless://02722550-1915-4629-a653-cbe95e594f70@nid3ch.betust.net:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=apiv13.betust.net&sid=ef5d4ad5&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 vless://02722550-1915-4629-a653-cbe95e594f70@nid3ch.betust.net:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=apiv13.betust.net&sid=ef5d4ad5&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 vless://02722550-1915-4629-a653-cbe95e594f70@nid3ch.betust.net:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=apiv13.betust.net&sid=ef5d4ad5&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
-vless://367b6ccd-ecf1-42da-b9d7-375161ab0952@188.225.27.218:20443?type=raw&security=reality&encryption=none&sni=pl3.esimpson.org&pbk=eyfWllHdZ8v6gtVISpKvpli--ZnNPm-dKtZAZ4CMs1w&sid=6203299b996fd3e1&flow=xtls-rprx-vision&headerType=none&fp=android#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-vless://367b6ccd-ecf1-42da-b9d7-375161ab0952@188.225.27.218:20443?type=raw&security=reality&encryption=none&sni=pl3.esimpson.org&pbk=eyfWllHdZ8v6gtVISpKvpli--ZnNPm-dKtZAZ4CMs1w&sid=6203299b996fd3e1&flow=xtls-rprx-vision&headerType=none&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-vless://367b6ccd-ecf1-42da-b9d7-375161ab0952@188.225.27.218:20443?type=raw&security=reality&encryption=none&sni=pl3.esimpson.org&pbk=eyfWllHdZ8v6gtVISpKvpli--ZnNPm-dKtZAZ4CMs1w&sid=6203299b996fd3e1&flow=xtls-rprx-vision&headerType=none&fp=firefox#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-vless://367b6ccd-ecf1-42da-b9d7-375161ab0952@188.225.27.218:20443?type=raw&security=reality&encryption=none&sni=pl3.esimpson.org&pbk=eyfWllHdZ8v6gtVISpKvpli--ZnNPm-dKtZAZ4CMs1w&sid=6203299b996fd3e1&flow=xtls-rprx-vision&headerType=none&fp=ios#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-vless://367b6ccd-ecf1-42da-b9d7-375161ab0952@31.31.169.19:443?encryption=none&flow=xtls-rprx-vision&pbk=eyfWllHdZ8v6gtVISpKvpli--ZnNPm-dKtZAZ4CMs1w&security=reality&sid=6203299b996fd3e1&sni=pl3.esimpson.org&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
-vless://367b6ccd-ecf1-42da-b9d7-375161ab0952@31.31.169.19:443?encryption=none&flow=xtls-rprx-vision&pbk=eyfWllHdZ8v6gtVISpKvpli--ZnNPm-dKtZAZ4CMs1w&security=reality&sid=6203299b996fd3e1&sni=pl3.esimpson.org&type=tcp&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
-vless://367b6ccd-ecf1-42da-b9d7-375161ab0952@31.31.169.19:443?encryption=none&flow=xtls-rprx-vision&pbk=eyfWllHdZ8v6gtVISpKvpli--ZnNPm-dKtZAZ4CMs1w&security=reality&sid=6203299b996fd3e1&sni=pl3.esimpson.org&type=tcp&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
-vless://367b6ccd-ecf1-42da-b9d7-375161ab0952@31.31.169.19:443?encryption=none&flow=xtls-rprx-vision&pbk=eyfWllHdZ8v6gtVISpKvpli--ZnNPm-dKtZAZ4CMs1w&security=reality&sid=6203299b996fd3e1&sni=pl3.esimpson.org&type=tcp&fp=ios#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
-vless://367b6ccd-ecf1-42da-b9d7-375161ab0952@31.31.169.19:443?encryption=none&flow=xtls-rprx-vision&pbk=eyfWllHdZ8v6gtVISpKvpli--ZnNPm-dKtZAZ4CMs1w&security=reality&sid=6203299b996fd3e1&sni=pl3.esimpson.org&type=tcp&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
-vless://367b6ccd-ecf1-42da-b9d7-375161ab0952@31.31.169.19:443?encryption=none&flow=xtls-rprx-vision&pbk=eyfWllHdZ8v6gtVISpKvpli--ZnNPm-dKtZAZ4CMs1w&security=reality&sid=6203299b996fd3e1&sni=pl3.esimpson.org&type=tcp&fp=safari#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@188.68.216.38:9891?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd&fp=chrome#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%5B%2ACIDR%5D
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@188.68.216.38:9891?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd&fp=edge#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%5B%2ACIDR%5D
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@188.68.216.38:9891?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd&fp=firefox#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%5B%2ACIDR%5D
