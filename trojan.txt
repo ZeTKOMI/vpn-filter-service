@@ -1,1 +1,11 @@
-﻿
+﻿trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20China%2C%20Guilin%20%7C%20%5BBL%5D
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecure=1&type=tcp&fp=edge#%F0%9F%87%A8%F0%9F%87%B3%20China%2C%20Guilin%20%7C%20%5BBL%5D
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecure=1&type=tcp&fp=firefox#%F0%9F%87%A8%F0%9F%87%B3%20China%2C%20Guilin%20%7C%20%5BBL%5D
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecure=1&type=tcp&fp=ios#%F0%9F%87%A8%F0%9F%87%B3%20China%2C%20Guilin%20%7C%20%5BBL%5D
+trojan://-svgCjAG2X4akN5ats6xfvSmTSNjEnSA@185.238.191.45:443?type=grpc&serviceName=ajv&mode=gun&security=tls&sni=d4-de2.cloud-cdn.xyz&alpn=h2&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+trojan://-svgCjAG2X4akN5ats6xfvSmTSNjEnSA@185.238.191.45:443?type=grpc&serviceName=ajv&mode=gun&security=tls&sni=d4-de2.cloud-cdn.xyz&alpn=h2&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+trojan://-svgCjAG2X4akN5ats6xfvSmTSNjEnSA@185.238.191.45:443?type=grpc&serviceName=ajv&mode=gun&security=tls&sni=d4-de2.cloud-cdn.xyz&alpn=h2&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+trojan://-svgCjAG2X4akN5ats6xfvSmTSNjEnSA@185.238.191.45:443?type=grpc&serviceName=ajv&mode=gun&security=tls&sni=d4-de2.cloud-cdn.xyz&alpn=h2&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+trojan://-svgCjAG2X4akN5ats6xfvSmTSNjEnSA@185.238.191.45:443?type=grpc&serviceName=ajv&mode=gun&security=tls&sni=d4-de2.cloud-cdn.xyz&alpn=h2&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+trojan://-svgCjAG2X4akN5ats6xfvSmTSNjEnSA@185.238.191.45:443?type=grpc&serviceName=ajv&mode=gun&security=tls&sni=d4-de2.cloud-cdn.xyz&alpn=h2&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+trojan://-svgCjAG2X4akN5ats6xfvSmTSNjEnSA@185.238.191.45:443?type=grpc&serviceName=ajv&mode=gun&security=tls&sni=d4-de2.cloud-cdn.xyz&alpn=h2&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
