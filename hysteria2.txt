@@ -1,1 +1,1 @@
-﻿
+﻿hysteria2://c1e81aedb0ec8cff78c2a90dc0aa0db1@87.58.220.77:443?insecure=1&sni=cloud.mail.ru#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20cloud.mail.ru
